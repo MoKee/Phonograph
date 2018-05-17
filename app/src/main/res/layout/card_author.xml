@@ -22,7 +22,7 @@
             android:paddingLeft="16dp"
             android:paddingRight="16dp"
             android:paddingTop="24dp"
-            android:text="@string/author"
+            android:text="@string/original_author"
             android:textAppearance="@style/TextAppearance.AppCompat.Body2"
             android:textColor="?android:textColorSecondary" />
 
@@ -79,7 +79,8 @@
             android:minHeight="@dimen/md_listitem_height"
             android:orientation="horizontal"
             android:paddingLeft="16dp"
-            android:paddingRight="16dp">
+            android:paddingRight="16dp"
+            android:visibility="gone">
 
             <com.kabouzeid.gramophone.views.IconImageView
                 android:id="@+id/icon_email"
@@ -110,7 +111,8 @@
             android:minHeight="@dimen/md_listitem_height"
             android:orientation="horizontal"
             android:paddingLeft="16dp"
-            android:paddingRight="16dp">
+            android:paddingRight="16dp"
+            android:visibility="gone">
 
             <com.kabouzeid.gramophone.views.IconImageView
                 android:id="@+id/icon_google_plus"
@@ -141,7 +143,8 @@
             android:minHeight="@dimen/md_listitem_height"
             android:orientation="horizontal"
             android:paddingLeft="16dp"
-            android:paddingRight="16dp">
+            android:paddingRight="16dp"
+            android:visibility="gone">
 
             <com.kabouzeid.gramophone.views.IconImageView
                 android:id="@+id/icon_twitter"
