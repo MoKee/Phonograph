@@ -3,6 +3,7 @@
 <resources>
   <string name="action_share">ھەمبەھىر</string>
   <string name="action_settings">"تەڭشەش"</string>
+  <string name="action_search">ئىزدە</string>
   <string name="action_previous">ئالدىنقى</string>
   <string name="action_next">كېيىنكى</string>
   <string name="action_details">تەپسىلاتى</string>

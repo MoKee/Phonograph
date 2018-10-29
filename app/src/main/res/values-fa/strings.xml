@@ -3,6 +3,7 @@
 <resources>
   <string name="action_share">اشتراک‌گذاری</string>
   <string name="action_settings">"تنظیمات"</string>
+  <string name="action_search">جستجو</string>
   <string name="action_previous">قبلی</string>
   <string name="action_next">بعدی</string>
   <string name="action_details">جزئیات</string>
