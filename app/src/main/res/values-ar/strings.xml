@@ -9,7 +9,7 @@
     <string name="action_share">مشاركة</string>
     <string name="action_settings">"الإعدادات"</string>
     <string name="action_grant">سماح</string>
-    <string name="action_about">حول التطبيق</string>
+    <string name="action_about">حول التطبيق </string>
     <string name="action_clear_playlist">امسح قائمة التشغيل</string>
     <string name="action_add_to_favorites">إضافة إلى الأغاني المفضلة</string>
     <string name="action_remove_from_favorites">إزالة من الأغاني المفضلة</string>
@@ -104,7 +104,7 @@
     <string name="black_theme_name">أسود (شاشات AMOLED)</string>
     <string name="always">دائماً</string>
     <string name="only_on_wifi">فقط عبر Wi-Fi</string>
-    <string name="never">ليس للأبد</string>
+    <string name="never">ليس للأبد </string>
     <string name="today">اليوم</string>
     <string name="this_week">هذا الأسبوع</string>
     <string name="this_month">هذا الشهر</string>
