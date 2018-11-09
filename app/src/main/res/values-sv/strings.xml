@@ -10,9 +10,9 @@
     <string name="action_settings">"Inställningar"</string>
     <string name="action_grant">Tillåt</string>
     <string name="action_about">Om</string>
-    <string name="action_clear_playlist">Rensa spellista</string>
-    <string name="action_add_to_favorites">Lägg till i favoriter</string>
-    <string name="action_remove_from_favorites">Ta bort från favoriter</string>
+    <string name="action_clear_playlist">Rensa spellista </string>
+    <string name="action_add_to_favorites">Lägg till i favoriter </string>
+    <string name="action_remove_from_favorites">Ta bort från favoriter </string>
     <string name="action_search">Sök</string>
     <string name="action_play_next">Spela nästa</string>
     <string name="action_play">Spela</string>
@@ -67,7 +67,7 @@
     <string name="rename_playlist_title">Döp om spellista</string>
     <string name="delete_playlist_title">Radera spellista</string>
     <string name="delete_playlists_title">Ta bort spellistor</string>
-    <string name="clear_playlist_title">Rensa spellista</string>
+    <string name="clear_playlist_title">Rensa spellista </string>
     <string name="save_playlist_title">Spara som fil</string>
     <string name="save_playlists_title">Spara som filer</string>
     <string name="add_playlist_title">"Lägg till i spellista"</string>

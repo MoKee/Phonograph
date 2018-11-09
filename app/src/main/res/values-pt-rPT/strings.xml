@@ -161,7 +161,7 @@
     <string name="new_playlist_title">Nova lista de reprodução</string>
     <string name="colored_footers">Rodapés coloridos</string>
     <string name="special_thanks_to">Agradecimentos especiais a</string>
-    <string name="licenses">Licenças</string>
+    <string name="licenses">Licenças </string>
     <string name="permissions_denied">Permissões negadas.</string>
     <string name="permission_external_storage_denied">Permissão para aceder a armazenamento externo negada.</string>
     <string name="support_development">Apoiar o desenvolvimento</string>
@@ -204,7 +204,7 @@
     <string name="app_widget_big_name">Phonograph - Grande</string>
     <string name="app_widget_classic_name">Phonograph - Clássico</string>
     <string name="app_widget_small_name">Phonograph - Pequeno</string>
-    <string name="report_an_issue">Denunciar um problema</string>
+    <string name="report_an_issue">Denunciar um problema </string>
     <string name="bug_report_issue">Problema</string>
     <string name="login">Entrar</string>
     <string name="title">Título</string>
