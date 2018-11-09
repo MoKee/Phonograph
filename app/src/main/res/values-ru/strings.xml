@@ -95,7 +95,7 @@
     <string name="action_shuffle_album">Перемешать альбом</string>
     <string name="action_shuffle_artist">Перемешать исполнителя</string>
     <string name="action_shuffle_playlist">Перемешать плейлист</string>
-    <string name="action_clear_playing_queue">Очистить очередь воспроизведения</string>
+    <string name="action_clear_playing_queue">Очистить очередь воспроизведения </string>
     <string name="action_save_playing_queue">Сохранить очередь воспроизведения</string>
     <string name="action_go_to_start_directory">Перейти к начальной директории</string>
     <string name="action_show_lyrics">Показать текст песни</string>
@@ -124,7 +124,7 @@
     <string name="pref_title_app_shortcuts">Цветные ярлыки приложений</string>
     <string name="pref_title_album_art_on_lockscreen">Показывать обложку альбома</string>
     <string name="pref_title_auto_download_metadata">Автоматическая загрузка метаданных</string>
-    <string name="pref_title_blurred_album_art">Размытая обложка альбома</string>
+    <string name="pref_title_blurred_album_art">Размытая обложка альбома </string>
     <string name="pref_title_colored_notification">Окрашенное уведомление</string>
     <string name="pref_title_classic_notification">Стандартный дизайн уведомления</string>
     <string name="pref_title_ignore_media_store_artwork">Игнорировать хранилище обложек альбомов</string>
@@ -233,7 +233,7 @@
     <string name="welcome_to_phonograph">"Добро пожаловать в Phonograph, красивый и лёгкий плеер для Android"</string>
     <string name="open_playing_queue_instruction">Проведите по карточке на экране воспроизведения, чтобы просмотреть очередь.</string>
     <string name="rearrange_playing_queue_instruction">Редактируйте очередь воспроизведения, перетаскивая песни за их номер.</string>
-    <string name="library">Библиотека</string>
+    <string name="library">Библиотека </string>
     <string name="folders">Папки</string>
     <string name="saved_playlist_to">Плейлист сохранён в %s.</string>
     <string name="failed_to_save_playlist">Не удалось сохранить плейлист (%s).</string>
