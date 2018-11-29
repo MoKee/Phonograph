@@ -238,6 +238,8 @@ To dovolite le, če imate težave z umetniškimi deli z nizko ločljivostjo.</st
     <string name="failed_to_save_playlist">Seznama predvajanja ni bilo mogoče shraniti (%s).</string>
     <string name="saved_x_playlists_to_x">Seznam predvajanja %1$d shranjen v %2$s.</string>
     <string name="saved_x_playlists_to_x_failed_to_save_x">Seznami predvajanja %1$d shranjen v %2$s, ni uspelo shraniti v %3$d.</string>
+    <string name="not_listed_in_media_store"><![CDATA[<b>%s</b> ni na seznamu v shrambi medijev.]]></string>
+    <string name="some_files_are_not_listed_in_the_media_store">Nekatere datoteke niso navedene v shrambi medijev.</string>
     <string name="nothing_to_scan">Nič za skeniranje.</string>
     <string name="scanned_files">Pregledano %1$d od %2$d datotek.</string>
     <string name="could_not_scan_files">Ne morem pregledati %d datotek.</string>
@@ -264,9 +266,11 @@ To dovolite le, če imate težave z umetniškimi deli z nizko ločljivostjo.</st
     <string name="bug_report_failed">Ni mogoče poslati poročila</string>
     <string name="bug_report_failed_wrong_credentials">Napačno uporabniško ime ali geslo</string>
     <string name="bug_report_failed_invalid_token">Neveljaven dostopni žeton. Obrnite na razvijalca app.</string>
+    <string name="bug_report_failed_issues_not_available">Težave niso omogočene za izbrano skladišče. Obrnite na razvijalca aplikacije.</string>
     <string name="bug_report_failed_unknown">Nepričakovana napaka. Obrnite na razvijalca programa.</string>
     <string name="copied_device_info_to_clipboard">Kopiral informacije o napravi v odložišče.</string>
     <string name="your_account_data_is_only_used_for_authentication">Vaši podatki računa se uporablja samo za preverjanje pristnosti.</string>
+    <string name="you_will_be_forwarded_to_the_issue_tracker_website">Napoteni boste na spletno stran za beleženje težav.</string>
     <string name="app_shortcut_shuffle_all_short">Naključno</string>
     <string name="app_shortcut_top_tracks_short">Najboljše skladbe</string>
     <string name="app_shortcut_last_added_short">Nazadnje dodano</string>
@@ -283,6 +287,7 @@ To dovolite le, če imate težave z umetniškimi deli z nizko ločljivostjo.</st
     <string name="restore">Obnovi</string>
     <string name="no_purchase_found">Nakupa ni najti.</string>
     <string name="eugene_cheung_summary">Za njegove prispevke k izvorni kodi.</string>
+    <string name="adrian_summary">Za izdelavo oblikovanja strani albuma.</string>
     <string name="add_action">Dodaj</string>
     <string name="blacklist">Črni seznam</string>
     <string name="remove_from_blacklist">Odstrani iz črne liste</string>
