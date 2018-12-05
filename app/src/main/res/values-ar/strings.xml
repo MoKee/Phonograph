@@ -107,6 +107,7 @@
     <string name="never">ليس للأبد </string>
     <string name="today">اليوم</string>
     <string name="this_week">هذا الأسبوع</string>
+    <string name="past_seven_days">آخر 7 أيام</string>
     <string name="this_month">هذا الشهر</string>
     <string name="past_three_months">أخر 3 أشهر</string>
     <string name="this_year">هذه السنة</string>
@@ -130,6 +131,7 @@
     <string name="pref_title_ignore_media_store_artwork">تجاهل صور متجر الوسائط</string>
     <string name="pref_title_gapless_playback">تشغيل بدون فواصل</string>
     <string name="pref_title_audio_ducking">خفض الصوت عند فقدان التركيز</string>
+    <string name="pref_title_recently_played_interval">فاصل قائمة التشغيل المشغلة مؤخراً</string>
     <string name="pref_title_last_added_interval">آخر قائمة تشغيل تمت إضافتها</string>
     <string name="pref_title_synchronized_lyrics_show">عرض كلمات الأغاني المتزامنة</string>
     <string name="pref_title_remember_last_tab">تذكر التبويب الأخير</string>
@@ -175,6 +177,7 @@
     <string name="last_added">آخر ما تمت إضافته</string>
     <string name="history">السجل</string>
     <string name="my_top_tracks">أفضل الأغاني</string>
+    <string name="not_recently_played">لم تشغّل مؤخراً</string>
     <string name="remove_cover">إزالة الغلاف</string>
     <string name="download_from_last_fm">التنزيل من Last.fm</string>
     <string name="pick_from_local_storage">اختيار من التخزين الداخلي</string>
