@@ -107,6 +107,7 @@
     <string name="never">Mai</string>
     <string name="today">Oggi</string>
     <string name="this_week">Questa settimana</string>
+    <string name="past_seven_days">Ultimi 7 giorni</string>
     <string name="this_month">Questo mese</string>
     <string name="past_three_months">Ultimi 3 mesi</string>
     <string name="this_year">Quest\'anno</string>
