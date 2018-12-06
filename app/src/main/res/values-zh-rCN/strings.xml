@@ -107,6 +107,7 @@
     <string name="never">从不</string>
     <string name="today">今日</string>
     <string name="this_week">本周</string>
+    <string name="past_seven_days">过去 7 天</string>
     <string name="this_month">本月</string>
     <string name="past_three_months">过去三个月</string>
     <string name="this_year">本年</string>
