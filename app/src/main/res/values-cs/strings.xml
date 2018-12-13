@@ -107,6 +107,7 @@
     <string name="never">Nikdy</string>
     <string name="today">Dnes</string>
     <string name="this_week">Tento týden</string>
+    <string name="past_seven_days">Posledních 7 dní</string>
     <string name="this_month">Tento měsíc</string>
     <string name="past_three_months">Poslední 3 měsíce</string>
     <string name="this_year">Tento rok</string>
