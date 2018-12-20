@@ -16,5 +16,6 @@
     <string name="remove_action">አስወግድ</string>
     <string name="reset_action">ዳግም አስጀምር</string>
     <string name="version">ስሪት</string>
+    <string name="title">ርዕስ</string>
     <string name="description">መግለጫ</string>
 </resources>

@@ -15,5 +15,6 @@
     <string name="remove_action">ამოშლა</string>
     <string name="reset_action">საწყის პრამეტრებზე დაბრუნება</string>
     <string name="version">ვერსია</string>
+    <string name="title">წარწერა</string>
     <string name="description">აღწერა</string>
 </resources>

@@ -15,5 +15,6 @@
     <string name="remove_action">Ondoa</string>
     <string name="reset_action">Weka upya</string>
     <string name="version">Toleo</string>
+    <string name="title">Mada</string>
     <string name="description">Maelezo</string>
 </resources>

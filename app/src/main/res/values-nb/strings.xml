@@ -4,9 +4,11 @@
     <string name="action_share">Del</string>
     <string name="action_settings">"Innstillinger"</string>
     <string name="action_search">Søk</string>
+    <string name="action_play">Spill av</string>
     <string name="action_previous">Forrige</string>
     <string name="action_next">Neste</string>
     <string name="action_details">Detaljer</string>
+    <string name="action_rename">Gi nytt navn</string>
     <string name="action_delete">Slett</string>
     <string name="albums">Album</string>
     <string name="label_details">Detaljer</string>
@@ -18,6 +20,7 @@
     <string name="delete_action">Slett</string>
     <string name="clear_action">Fjern</string>
     <string name="remove_action">Fjern</string>
+    <string name="rename_action">Gi nytt navn</string>
     <string name="reset_action">Tilbakestill</string>
     <string name="history">Logg</string>
     <string name="changelog">Endringslogg</string>

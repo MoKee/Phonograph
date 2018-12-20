@@ -14,5 +14,6 @@
     <string name="remove_action">យកចេញ</string>
     <string name="reset_action">កំណត់​ឡើងវិញ</string>
     <string name="version">កំណែ</string>
+    <string name="title">ចំណង​ជើង</string>
     <string name="description">ការ​ពិពណ៌នា</string>
 </resources>

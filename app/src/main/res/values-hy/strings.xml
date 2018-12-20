@@ -15,5 +15,6 @@
     <string name="remove_action">Հեռացնել</string>
     <string name="reset_action">Վերակայել</string>
     <string name="version">Տարբերակը</string>
+    <string name="title">Վերնագիր</string>
     <string name="description">Նկարագրություն</string>
 </resources>

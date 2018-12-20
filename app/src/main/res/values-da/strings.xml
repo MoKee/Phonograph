@@ -5,6 +5,7 @@
     <string name="action_settings">"Indstillinger"</string>
     <string name="action_about">Om</string>
     <string name="action_search">Søg</string>
+    <string name="action_play">Afspil</string>
     <string name="action_previous">Forrige</string>
     <string name="action_next">Næste</string>
     <string name="action_details">Detaljer</string>

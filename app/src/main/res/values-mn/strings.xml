@@ -14,5 +14,6 @@
     <string name="remove_action">Арилгах</string>
     <string name="reset_action">Бүгдийг цэвэрлэх</string>
     <string name="version">Хувилбар</string>
+    <string name="title">Гарчиг</string>
     <string name="description">Тайлбар</string>
 </resources>

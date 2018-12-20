@@ -4,6 +4,7 @@
     <string name="action_next">Next</string>
     <string name="never">Never</string>
     <string name="equalizer">Equaliser</string>
+    <string name="pref_header_colors">Colours</string>
     <string name="history">History</string>
     <string name="changelog">Changelog</string>
     <string name="donate">Donate</string>

@@ -3,6 +3,8 @@
 <resources>
     <string name="action_previous">&quot;પાછળ&quot;</string>
     <string name="action_next">&quot;આગામી&quot;</string>
+    <string name="action_details">વિગતો</string>
+    <string name="label_details">વિગતો</string>
     <string name="label_file_size">કદ</string>
     <string name="dark_theme_name">ઘાટું</string>
     <string name="today">આજે</string>
@@ -11,5 +13,6 @@
     <string name="reset_action">રીસેટ કરો</string>
     <string name="version">સંસ્કરણ</string>
     <string name="title">&quot;શીર્ષક&quot;</string>
+    <string name="description">વર્ણન</string>
     <string name="password">પાસવર્ડ</string>
 </resources>
