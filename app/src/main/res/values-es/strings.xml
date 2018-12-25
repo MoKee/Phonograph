@@ -27,6 +27,7 @@
     <string name="clear_action">Borrar</string>
     <string name="remove_action">Eliminar</string>
     <string name="rename_action">Renombrar</string>
+    <string name="create_action">Crear</string>
     <string name="reset_action">Restablecer</string>
     <string name="favorites">Favoritos</string>
     <string name="history">Historial</string>
