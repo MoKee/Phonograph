@@ -36,7 +36,9 @@
     <string name="biography_unavailable">Impossible de trouver la biographie de l\'artiste.</string>
     <string name="wiki_unavailable">Impossible de trouver une entr\u00e9e wiki pour cet album.</string>
     <string name="biography">Biographie</string>
+    <string name="wiki">Wiki</string>
     <string name="audio_focus_denied">Accès à l\'Audio Focus refusé.</string>
+    <string name="album">Album</string>
     <string name="artist">Artiste</string>
     <string name="album_artist">Artiste de l\'album</string>
     <string name="year">Année</string>
@@ -82,6 +84,7 @@
     <string name="delete_playlists_title">Supprimer les playlists</string>
     <string name="clear_playlist_title">Effacer la playlist</string>
     <string name="save_playlist_title">Sauvegarder en tant que fichier</string>
+    <string name="save_playlists_title">Enregistrer en tant que fichiers</string>
     <string name="add_playlist_title">"Ajouter à la playlist"</string>
     <string name="select_all_title">Tout sélectionner</string>
     <string name="action_shuffle_all">Lecture aléatoire</string>
@@ -108,6 +111,7 @@
     <string name="pref_header_now_playing_screen">Lecture en cours</string>
     <string name="pref_title_general_theme">Thème général</string>
     <string name="pref_header_library">Bibliothèque</string>
+    <string name="pref_header_images">Images</string>
     <string name="pref_header_lockscreen">Écran de verrouillage</string>
     <string name="pref_header_playlists">Listes de lecture</string>
     <string name="pref_header_notification">Notification</string>
