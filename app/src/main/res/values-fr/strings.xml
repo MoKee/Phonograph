@@ -31,7 +31,9 @@
     <string name="action_set_as_start_directory">Définir comme répertoire de départ</string>
     <string name="albums">Albums</string>
     <string name="artists">Artistes</string>
+    <string name="genres">Genres</string>
     <string name="songs">Titres</string>
+    <string name="playlists">Listes de lecture</string>
     <string name="unplayable_file">Impossible de lire ce titre.</string>
     <string name="biography_unavailable">Impossible de trouver la biographie de l\'artiste.</string>
     <string name="wiki_unavailable">Impossible de trouver une entr\u00e9e wiki pour cet album.</string>
@@ -40,6 +42,7 @@
     <string name="audio_focus_denied">Accès à l\'Audio Focus refusé.</string>
     <string name="album">Album</string>
     <string name="artist">Artiste</string>
+    <string name="genre">Genre</string>
     <string name="album_artist">Artiste de l\'album</string>
     <string name="year">Année</string>
     <string name="track_hint">"Piste (2 pour piste 2 ou 3004 pour CD3 piste 4)"</string>
@@ -50,6 +53,7 @@
     <string name="label_file_name">Nom du fichier</string>
     <string name="label_file_path">Chemin du fichier</string>
     <string name="label_file_size">Taille</string>
+    <string name="label_file_format">Format</string>
     <string name="label_track_length">Durée</string>
     <string name="label_bit_rate">Débit</string>
     <string name="label_sampling_rate">Taux d\'échantillonnage</string>
@@ -103,6 +107,7 @@
     <string name="never">Jamais</string>
     <string name="today">Aujourd\'hui</string>
     <string name="this_week">Cette semaine</string>
+    <string name="past_seven_days">7 derniers jours</string>
     <string name="this_month">Ce mois-ci</string>
     <string name="past_three_months">Les 3 derniers mois</string>
     <string name="this_year">Cette année</string>
@@ -110,6 +115,7 @@
     <string name="pref_header_colors">Couleurs</string>
     <string name="pref_header_now_playing_screen">Lecture en cours</string>
     <string name="pref_title_general_theme">Thème général</string>
+    <string name="pref_header_audio">Audio</string>
     <string name="pref_header_library">Bibliothèque</string>
     <string name="pref_header_images">Images</string>
     <string name="pref_header_lockscreen">Écran de verrouillage</string>
@@ -125,9 +131,11 @@
     <string name="pref_title_ignore_media_store_artwork">Ignorer le stockage des pochettes</string>
     <string name="pref_title_gapless_playback">Lecture sans coupure</string>
     <string name="pref_title_audio_ducking">Réduire le volume lorse que le focus est interrompu</string>
+    <string name="pref_title_recently_played_interval">Intervalle de playlist joué récemment</string>
     <string name="pref_title_last_added_interval">Intervalle de la playlist \"Derniers ajouts\"</string>
     <string name="pref_title_synchronized_lyrics_show">Afficher les paroles synchronisées</string>
     <string name="pref_title_remember_last_tab">Se souvenir de la dernière fenêtre</string>
+    <string name="pref_title_remember_shuffle">Mémoriser le mode lecture aléatoire</string>
     <string name="no_equalizer">Impossible de trouver d\'égalisateur.</string>
     <string name="no_audio_ID">"Faire jouer un titre d'abord, puis réessayer."</string>
     <string name="delete_action">Supprimer</string>
@@ -162,12 +170,14 @@
     <string name="pref_summary_audio_ducking">Notifications, navigation, etc.</string>
     <string name="pref_summary_synchronized_lyrics_show">Pour le moment seul les paroles synchronisées en format LRC sont supportées. Aussi bien en fichier intégré ou en fichier séparé.</string>
     <string name="pref_summary_remember_last_tab">Aller à la dernière catégorie ouverte lors du lancement</string>
+    <string name="pref_summary_remember_shuffle">Le mode aléatoire toujours actif lorsque vous sélectionnez une nouvelle liste de chansons</string>
     <string name="could_not_download_album_cover">"Impossible de t\u00e9l\u00e9charger la pochette correspondant \u00e0 l'album."</string>
     <string name="search_hint">Recherche dans votre bibliothèque...</string>
     <string name="favorites">Favoris</string>
     <string name="last_added">Derniers ajouts</string>
     <string name="history">Titres écoutés récemment</string>
     <string name="my_top_tracks">Mes meilleurs titres</string>
+    <string name="not_recently_played">Pas joués récemment</string>
     <string name="remove_cover">Supprimer la pochette</string>
     <string name="download_from_last_fm">Télécharger depuis Last.fm</string>
     <string name="pick_from_local_storage">Sélectionner depuis le stockage</string>
@@ -230,6 +240,8 @@
     <string name="folders">Dossiers</string>
     <string name="saved_playlist_to">Liste de lecture sauvegardée dans %s.</string>
     <string name="failed_to_save_playlist">Impossible de sauvegarder la liste de lecture (%s).</string>
+    <string name="saved_x_playlists_to_x">Playlists sauvé %1$d à %2$s.</string>
+    <string name="saved_x_playlists_to_x_failed_to_save_x">Sauvegarde playlists %1$d à %2$s, erreur de sauvegarde %3$d.</string>
     <string name="not_listed_in_media_store"><![CDATA[<b>%s</b> n\'est pas dans le catalogue de médias.]]></string>
     <string name="some_files_are_not_listed_in_the_media_store">Des fichiers ne sont pas listés dans les documents.</string>
     <string name="nothing_to_scan">Rien à analyser.</string>

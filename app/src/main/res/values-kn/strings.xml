@@ -18,6 +18,7 @@
     <string name="never">ಎಂದಿಗೂ</string>
     <string name="today">ಈ ದಿನ</string>
     <string name="pref_header_colors">ಬಣ್ಣಗಳು</string>
+    <string name="pref_header_notification">ಅಧಿಸೂಚನೆಗಳು</string>
     <string name="delete_action">ಅಳಿಸು</string>
     <string name="clear_action">ತೆರವುಗೊಳಿಸು</string>
     <string name="remove_action">ತೆಗೆದುಹಾಕಿ</string>
