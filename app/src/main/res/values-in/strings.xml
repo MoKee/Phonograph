@@ -107,6 +107,7 @@
     <string name="never">Tidak pernah</string>
     <string name="today">Hari ini</string>
     <string name="this_week">Minggu ini</string>
+    <string name="past_seven_days">7 hari terakhir</string>
     <string name="this_month">Bulan ini</string>
     <string name="past_three_months">Melewati 3 bulan</string>
     <string name="this_year">Tahun ini</string>
@@ -130,6 +131,7 @@
     <string name="pref_title_ignore_media_store_artwork">Abaikan sampul-sampul dari \'Media Store\' android.</string>
     <string name="pref_title_gapless_playback">Pemutaran tanpa jeda</string>
     <string name="pref_title_audio_ducking">Kurangi suara saat ada pemberitahuan</string>
+    <string name="pref_title_recently_played_interval">Dimainkan akhir ini</string>
     <string name="pref_title_last_added_interval">Sela daftar putar terakhir ditambahkan</string>
     <string name="pref_title_synchronized_lyrics_show">Tampilkan lirik yang tersinkronisasi</string>
     <string name="pref_title_remember_last_tab">Mengingat tab terakhir</string>
@@ -175,6 +177,7 @@
     <string name="last_added">Terakhir ditambahkan</string>
     <string name="history">Riwayat</string>
     <string name="my_top_tracks">Sering Diputar</string>
+    <string name="not_recently_played">Tidak ada yang dimainkan</string>
     <string name="remove_cover">Hapus sampul</string>
     <string name="download_from_last_fm">Unduh dari Last.fm</string>
     <string name="pick_from_local_storage">Ambil dari penyimpanan lokal</string>
@@ -310,4 +313,5 @@
     <string name="sort_order_artist">Artis</string>
     <string name="sort_order_album">Album</string>
     <string name="sort_order_year">Tahun</string>
+    <string name="finish_current_music_sleep_timer">Menyelesaikan lagu terakhir</string>
 </resources>
