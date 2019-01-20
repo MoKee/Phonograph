@@ -107,6 +107,7 @@
     <string name="never">Nikoli</string>
     <string name="today">Danes</string>
     <string name="this_week">Ta teden</string>
+    <string name="past_seven_days">Zadnjih 7 dni</string>
     <string name="this_month">Ta mesec</string>
     <string name="past_three_months">Zadnje 3 mesece</string>
     <string name="this_year">To leto</string>
