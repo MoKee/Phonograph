@@ -6,7 +6,6 @@
     <string name="clear_action">Tozalash</string>
     <string name="remove_action">Olib tashlash</string>
     <string name="reset_action">Tiklash</string>
-    <string name="history">Tarixi</string>
     <string name="version">Qo‘shish</string>
     <string name="donate">Ehson</string>
 </resources>

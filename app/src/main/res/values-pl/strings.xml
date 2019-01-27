@@ -107,6 +107,7 @@
     <string name="never">Nigdy</string>
     <string name="today">Dzisiaj</string>
     <string name="this_week">Ten tydzień</string>
+    <string name="past_seven_days">Ostatnie 7 dni</string>
     <string name="this_month">Ten miesiąc</string>
     <string name="past_three_months">Ostatnie 3 miesiące</string>
     <string name="this_year">Ten rok</string>
@@ -130,6 +131,7 @@
     <string name="pref_title_ignore_media_store_artwork">Ignoruj okładki z Media Store</string>
     <string name="pref_title_gapless_playback">Odtwarzanie bez przerw</string>
     <string name="pref_title_audio_ducking">Zmniejszaj głośność przy powiadomieniach</string>
+    <string name="pref_title_recently_played_interval">Ostatnio odtwarzany przedział listy odtwarzania</string>
     <string name="pref_title_last_added_interval">Okres ostatnio dodanych list odtwarzania</string>
     <string name="pref_title_synchronized_lyrics_show">Pokazuj zsynchronizowany tekst</string>
     <string name="pref_title_remember_last_tab">Zapamiętaj ostatnią kartę</string>
@@ -173,8 +175,8 @@
     <string name="search_hint">Szukaj w bibliotece...</string>
     <string name="favorites">Ulubione</string>
     <string name="last_added">Ostatnio dodane</string>
-    <string name="history">Historia odtwarzania</string>
     <string name="my_top_tracks">Moja Top Lista</string>
+    <string name="not_recently_played">Ostatnio nieodtwarzane</string>
     <string name="remove_cover">Usuń okładkę</string>
     <string name="download_from_last_fm">Pobierz z last.fm</string>
     <string name="pick_from_local_storage">Wybierz z pamięci lokalnej</string>
@@ -207,14 +209,11 @@
     <string name="version">Wersja</string>
     <string name="author">O autorze</string>
     <string name="write_an_email">Napisz maila</string>
-    <string name="add_to_google_plus_circles">Dodaj do kręgów Google+</string>
     <string name="follow_on_twitter">Śledź na Twitterze</string>
     <string name="fork_on_github">Aplikacja na GitHub\'ie</string>
     <string name="visit_website">Odwiedź stronę</string>
     <string name="report_bugs">Zgłoś błędy</string>
     <string name="report_bugs_summary">Zgłaszaj błędy lub propozycje nowych funkcji</string>
-    <string name="join_community">Dołącz do społeczności Google+</string>
-    <string name="join_community_summary">Jeśli potrzebujesz pomocy lub masz pytania, społeczność Phonograph na Google+ jest do tego dobrym miejscem</string>
     <string name="translate">Tłumaczenie</string>
     <string name="translate_summary">Pomóż przetłumaczyć Phonograph na Twój ojczysty język</string>
     <string name="rate_on_google_play">Oceń</string>
@@ -310,4 +309,5 @@
     <string name="sort_order_artist">Artysta</string>
     <string name="sort_order_album">Album</string>
     <string name="sort_order_year">Rok</string>
+    <string name="finish_current_music_sleep_timer">Ukończ ostatnią piosenkę</string>
 </resources>

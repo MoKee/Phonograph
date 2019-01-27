@@ -175,7 +175,6 @@
     <string name="search_hint">Kitaplığınız taranıyor...</string>
     <string name="favorites">Favoriler</string>
     <string name="last_added">Son eklenen</string>
-    <string name="history">Geçmiş</string>
     <string name="my_top_tracks">En iyi parçalarım</string>
     <string name="not_recently_played">Yakın zamanda oynatılmadı</string>
     <string name="remove_cover">Albüm kapağını kaldır</string>
@@ -210,14 +209,11 @@
     <string name="version">Sürüm</string>
     <string name="author">Yapımcı</string>
     <string name="write_an_email">Bir e-posta yazın</string>
-    <string name="add_to_google_plus_circles">Google+ çevrelerine ekle</string>
     <string name="follow_on_twitter">Twitter\'da takip et</string>
     <string name="fork_on_github">GitHub\'a bağlanın</string>
     <string name="visit_website">Web sitesini ziyaret edin</string>
     <string name="report_bugs">Hataları raporlayın</string>
     <string name="report_bugs_summary">Hataları raporlayın ya da yeni özellikler talep edin.</string>
-    <string name="join_community">Google+ grubuna katılın</string>
-    <string name="join_community_summary">Eğer yardıma ihtiyacınız varsa veya sorularınız varsa Google+ Phonograph topluluğu en doğru yer.</string>
     <string name="translate">Çeviri</string>
     <string name="translate_summary">Phonograph\'ı kendi dilinize çevirmek için yardımcı olun.</string>
     <string name="rate_on_google_play">Oy ver</string>

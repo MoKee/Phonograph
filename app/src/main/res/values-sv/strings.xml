@@ -107,7 +107,6 @@
     <string name="pref_summary_colored_navigation_bar">I vilken vy navigeringslisten skall vara färgad</string>
     <string name="search_hint">Sök i ditt bibliotek ...</string>
     <string name="favorites">Favoriter</string>
-    <string name="history">Historia</string>
     <string name="new_playlist_title">Ny spellista</string>
     <string name="grid_size_1">1</string>
     <string name="grid_size_2">2</string>

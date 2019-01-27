@@ -173,7 +173,6 @@
     <string name="search_hint">Vyhľadávať v knižnici…</string>
     <string name="favorites">Obľúbené</string>
     <string name="last_added">Naposledy pridané</string>
-    <string name="history">História</string>
     <string name="my_top_tracks">Moje najlepšie skladby</string>
     <string name="remove_cover">Odstrániť obal</string>
     <string name="download_from_last_fm">Stiahnuť z Last.fm</string>
@@ -207,14 +206,11 @@
     <string name="version">Verzia</string>
     <string name="author">Autor</string>
     <string name="write_an_email">Napísať e-mail</string>
-    <string name="add_to_google_plus_circles">Pridať do kruhov Google Plus</string>
     <string name="follow_on_twitter">Sledovať na Twitteri</string>
     <string name="fork_on_github">Fork na GitHube</string>
     <string name="visit_website">Navštíviť webové stránky</string>
     <string name="report_bugs">Nahlásiť chyby</string>
     <string name="report_bugs_summary">Nahlásiť chyby alebo požiadať o novú funkcie.</string>
-    <string name="join_community">Pripojiť sa ku komunite Google+</string>
-    <string name="join_community_summary">Ak potrebujete pomoc alebo máte otázky, komunita Phonographu na Google Plus je to správne miesto.</string>
     <string name="translate">Preložiť</string>
     <string name="translate_summary">Pomôžte nám preložiť Phonograph do vášho materinského jazyka.</string>
     <string name="rate_on_google_play">Ohodnotiť</string>

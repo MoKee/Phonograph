@@ -39,6 +39,8 @@
     <string name="wiki_unavailable">Nu s-a putut g\u0103si o \u00eenregistrare wiki pentru acest album.</string>
     <string name="biography">Biografie</string>
     <string name="audio_focus_denied">Focus audio respins.</string>
+    <string name="album">Album</string>
+    <string name="artist">Artist</string>
     <string name="genre">Gen</string>
     <string name="album_artist">Artistul albumului</string>
     <string name="year">An</string>
@@ -50,6 +52,7 @@
     <string name="label_file_name">Nume fișier</string>
     <string name="label_file_path">Cale fișier</string>
     <string name="label_file_size">Mărime</string>
+    <string name="label_file_format">Format</string>
     <string name="label_track_length">Durată</string>
     <string name="label_sampling_rate">Rată de sampling</string>
     <string name="action_go_to_artist">Accesaţi artistul</string>
@@ -108,6 +111,7 @@
     <string name="pref_header_colors">Culori</string>
     <string name="pref_header_now_playing_screen">Redare acum</string>
     <string name="pref_title_general_theme">Temă generală</string>
+    <string name="pref_header_audio">Audio</string>
     <string name="pref_header_library">Bibliotecă</string>
     <string name="pref_header_images">Imagini</string>
     <string name="pref_header_lockscreen">Ecran blocat</string>
@@ -164,7 +168,6 @@
     <string name="search_hint">Căutați în bibliotecă.</string>
     <string name="favorites">Favorite</string>
     <string name="last_added">Ultimele adăugate</string>
-    <string name="history">Istoric</string>
     <string name="my_top_tracks">Melodiile mele favorite</string>
     <string name="remove_cover">Ștergeți coperta</string>
     <string name="download_from_last_fm">Descărcați de la Last.fm</string>
@@ -177,8 +180,10 @@
     <string name="sleep_timer_set">Cronometrul pentru somn setat pentru %d minute din acest moment.</string>
     <string name="action_new_playlist">Lista de redare nouă...</string>
     <string name="new_playlist_title">Listă de redare nouă</string>
+    <string name="grid_size_3">3</string>
     <string name="grid_size_4">4</string>
     <string name="grid_size_5">5</string>
+    <string name="grid_size_6">6</string>
     <string name="grid_size_7">7</string>
     <string name="grid_size_8">8</string>
     <string name="colored_footers">Subsoluri colorate</string>
@@ -194,14 +199,11 @@
     <string name="version">Versiune</string>
     <string name="author">Autor</string>
     <string name="write_an_email">Scrieţi un e-mail</string>
-    <string name="add_to_google_plus_circles">Adăugaţi în cercurile Google lus</string>
     <string name="follow_on_twitter">Urmăriţi pe Twitter</string>
     <string name="fork_on_github">Fork pe GitHub</string>
     <string name="visit_website">Vizitati site-ul web</string>
     <string name="report_bugs">Raportaţi probleme</string>
     <string name="report_bugs_summary">Raportați probleme sau solicitați noi funcții.</string>
-    <string name="join_community">Alăturați-vă comunității Google Plus</string>
-    <string name="join_community_summary">Dacă aveți nevoie de ajutor sau aveți întrebări, intraţi pe comunitatea Phonograph de pe Google Plus.</string>
     <string name="translate">Traducere</string>
     <string name="translate_summary">Ajutaţi la traducerea Phonograph în limba maternă.</string>
     <string name="rate_on_google_play">Evaluaţi</string>
@@ -291,5 +293,7 @@
     <string name="action_sort_order">Ordine de sortare</string>
     <string name="sort_order_a_z">crescător</string>
     <string name="sort_order_z_a">descrescător</string>
+    <string name="sort_order_artist">Artist</string>
+    <string name="sort_order_album">Album</string>
     <string name="sort_order_year">An</string>
 </resources>

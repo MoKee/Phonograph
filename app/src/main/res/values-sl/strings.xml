@@ -175,7 +175,6 @@ To dovolite le, če imate težave z umetniškimi deli z nizko ločljivostjo.</st
     <string name="search_hint">Poiščite svojo knjižnico…</string>
     <string name="favorites">Priljubljene</string>
     <string name="last_added">Nazadnje dodano</string>
-    <string name="history">Zgodovina</string>
     <string name="my_top_tracks">Moje top skladbe</string>
     <string name="remove_cover">Odstrani naslovnico</string>
     <string name="download_from_last_fm">Prenos iz Last.fm</string>
@@ -209,13 +208,10 @@ To dovolite le, če imate težave z umetniškimi deli z nizko ločljivostjo.</st
     <string name="version">Različica</string>
     <string name="author">Avtor</string>
     <string name="write_an_email">Napišite e-pošto</string>
-    <string name="add_to_google_plus_circles">Dodaj v Google Plus kroge</string>
     <string name="follow_on_twitter">Sledite nam na Twitterju</string>
     <string name="visit_website">Obišči spletno stran</string>
     <string name="report_bugs">Prijavi napako</string>
     <string name="report_bugs_summary">Prijavi napako ali zahtevaj novo funkcijo.</string>
-    <string name="join_community">Pridružite se Skupnosti Google Plus</string>
-    <string name="join_community_summary">Če potrebujete pomoč ali imate vprašanje, obiščite Phonograph skupnosti na Google Plus.</string>
     <string name="translate">Prevajanje</string>
     <string name="translate_summary">Pomagajte pri prevodu Phonographa v vaš rojsten jezik.</string>
     <string name="rate_on_google_play">Oceni</string>
