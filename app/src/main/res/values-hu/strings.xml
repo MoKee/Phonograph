@@ -175,6 +175,7 @@
     <string name="search_hint">Keresés a könyvtárban...</string>
     <string name="favorites">Kedvencek</string>
     <string name="last_added">Legfrissebb dalok</string>
+    <string name="history">Nemrég lejátszott</string>
     <string name="my_top_tracks">Toplista</string>
     <string name="not_recently_played">Nem található legutóbb hallgatott</string>
     <string name="remove_cover">Borító eltávolítása</string>

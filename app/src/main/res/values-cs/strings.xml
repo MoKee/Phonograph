@@ -175,6 +175,7 @@
     <string name="search_hint">Vyhledávání v knihovně…</string>
     <string name="favorites">Oblíbené</string>
     <string name="last_added">Naposledy přidáno</string>
+    <string name="history">Nedávno přehrávané</string>
     <string name="my_top_tracks">Mé nejlepší skladby</string>
     <string name="not_recently_played">Žádné nedávno přehrávané</string>
     <string name="remove_cover">Odstranit obal</string>

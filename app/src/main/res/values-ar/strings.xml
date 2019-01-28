@@ -175,6 +175,7 @@
     <string name="search_hint">إبحث في مكتبتك...</string>
     <string name="favorites">المفضلة</string>
     <string name="last_added">آخر ما تمت إضافته</string>
+    <string name="history">تم تشغيله حديثاً</string>
     <string name="my_top_tracks">أفضل الأغاني</string>
     <string name="not_recently_played">لم تشغّل مؤخراً</string>
     <string name="remove_cover">إزالة الغلاف</string>
