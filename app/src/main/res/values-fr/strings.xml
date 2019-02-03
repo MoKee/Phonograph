@@ -175,6 +175,7 @@
     <string name="search_hint">Recherche dans votre bibliothèque...</string>
     <string name="favorites">Favoris</string>
     <string name="last_added">Derniers ajouts</string>
+    <string name="history">Récemment lu</string>
     <string name="my_top_tracks">Mes meilleurs titres</string>
     <string name="not_recently_played">Pas joués récemment</string>
     <string name="remove_cover">Supprimer la pochette</string>

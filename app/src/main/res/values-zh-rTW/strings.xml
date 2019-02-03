@@ -175,6 +175,7 @@
     <string name="search_hint">搜尋音樂庫…</string>
     <string name="favorites">最愛</string>
     <string name="last_added">最後新增</string>
+    <string name="history">最近播放</string>
     <string name="my_top_tracks">我的最佳單曲</string>
     <string name="not_recently_played">最近沒有播放</string>
     <string name="remove_cover">移除封面</string>

@@ -175,6 +175,7 @@
     <string name="search_hint">Поиск в библиотеке...</string>
     <string name="favorites">Избранное</string>
     <string name="last_added">Последние добавленные</string>
+    <string name="history">Недавно прослушанные</string>
     <string name="my_top_tracks">Мои популярные треки</string>
     <string name="not_recently_played">Нет недавно воспроизведенных треков</string>
     <string name="remove_cover">Удалить обложку</string>

@@ -175,6 +175,7 @@
     <string name="search_hint">正在扫描</string>
     <string name="favorites">收藏夹</string>
     <string name="last_added">最近添加</string>
+    <string name="history">最近播放</string>
     <string name="my_top_tracks">最喜爱的歌曲</string>
     <string name="not_recently_played">最近没有播放过</string>
     <string name="remove_cover">移除专辑封面</string>

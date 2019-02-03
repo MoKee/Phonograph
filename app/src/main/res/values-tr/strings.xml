@@ -175,6 +175,7 @@
     <string name="search_hint">Kitaplığınız taranıyor...</string>
     <string name="favorites">Favoriler</string>
     <string name="last_added">Son eklenen</string>
+    <string name="history">Son çalınan</string>
     <string name="my_top_tracks">En iyi parçalarım</string>
     <string name="not_recently_played">Yakın zamanda oynatılmadı</string>
     <string name="remove_cover">Albüm kapağını kaldır</string>
