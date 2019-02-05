@@ -107,6 +107,7 @@
     <string name="never">Nikdy</string>
     <string name="today">Dnes</string>
     <string name="this_week">Tento týždeň</string>
+    <string name="past_seven_days">Posledných 7 dní</string>
     <string name="this_month">Tento mesiac</string>
     <string name="past_three_months">Posledné 3 mesiace</string>
     <string name="this_year">Tento rok</string>
@@ -130,6 +131,7 @@
     <string name="pref_title_ignore_media_store_artwork">Ignorovať obaly Media Storu</string>
     <string name="pref_title_gapless_playback">Neprerušované prehrávanie</string>
     <string name="pref_title_audio_ducking">Znížit hlasitosť upozornení</string>
+    <string name="pref_title_recently_played_interval">Interval playlistu Nedávno prehrávané</string>
     <string name="pref_title_last_added_interval">Posledný pridaný interval zoznamu skladieb</string>
     <string name="pref_title_synchronized_lyrics_show">Zobraziť synchronizované texty</string>
     <string name="pref_title_remember_last_tab">Pamätať poslednú kartu</string>
@@ -174,6 +176,7 @@
     <string name="favorites">Obľúbené</string>
     <string name="last_added">Naposledy pridané</string>
     <string name="my_top_tracks">Moje najlepšie skladby</string>
+    <string name="not_recently_played">Neprehrané nedávno</string>
     <string name="remove_cover">Odstrániť obal</string>
     <string name="download_from_last_fm">Stiahnuť z Last.fm</string>
     <string name="pick_from_local_storage">Vybrať z lokálneho úložiska</string>
