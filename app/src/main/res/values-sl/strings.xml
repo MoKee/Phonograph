@@ -131,6 +131,7 @@
     <string name="pref_title_ignore_media_store_artwork">Prezri ovitke iz trgovine</string>
     <string name="pref_title_gapless_playback">Brez presledkov</string>
     <string name="pref_title_audio_ducking">Zmanjšaj glasnost pri izgubi pozornosti</string>
+    <string name="pref_title_recently_played_interval">Pred kratkim predvajani interval predvajanja</string>
     <string name="pref_title_last_added_interval">Interval nazadnje dodanega seznama</string>
     <string name="pref_title_synchronized_lyrics_show">Prikaz sinhroniziranih besedil</string>
     <string name="pref_title_remember_last_tab">Zapomni si zadnji zavihek</string>
@@ -176,6 +177,7 @@ To dovolite le, če imate težave z umetniškimi deli z nizko ločljivostjo.</st
     <string name="favorites">Priljubljene</string>
     <string name="last_added">Nazadnje dodano</string>
     <string name="my_top_tracks">Moje top skladbe</string>
+    <string name="not_recently_played">Nekaj časa nepredvajano</string>
     <string name="remove_cover">Odstrani naslovnico</string>
     <string name="download_from_last_fm">Prenos iz Last.fm</string>
     <string name="pick_from_local_storage">Izberi iz lokalne shrambe</string>
@@ -209,6 +211,7 @@ To dovolite le, če imate težave z umetniškimi deli z nizko ločljivostjo.</st
     <string name="author">Avtor</string>
     <string name="write_an_email">Napišite e-pošto</string>
     <string name="follow_on_twitter">Sledite nam na Twitterju</string>
+    <string name="fork_on_github">Vilice na GitHubu</string>
     <string name="visit_website">Obišči spletno stran</string>
     <string name="report_bugs">Prijavi napako</string>
     <string name="report_bugs_summary">Prijavi napako ali zahtevaj novo funkcijo.</string>
@@ -218,6 +221,7 @@ To dovolite le, če imate težave z umetniškimi deli z nizko ločljivostjo.</st
     <string name="rate_on_google_play_summary">Če vam je Phonograph všeč, ga pozitivno ocenite na Google Play.</string>
     <string name="donate">Prispevaj</string>
     <string name="donate_summary">Če menite, da sem si zaslužil plačilo za moje delo, lahko pustite nekaj denarja tukaj.</string>
+    <string name="aidan_follestad_summary">Za tematski motor in nekatere druge odlične stvari.</string>
     <string name="michael_cook_summary">Za vsebino lepe ikone.</string>
     <string name="maarten_corpel_summary">Za izdelavo ilustracije Play Store in praznega albuma.</string>
     <string name="aleksandar_tesic_summary">Za pomoč pri oblikovanju.</string>
@@ -240,6 +244,7 @@ To dovolite le, če imate težave z umetniškimi deli z nizko ločljivostjo.</st
     <string name="nothing_to_scan">Nič za skeniranje.</string>
     <string name="scanned_files">Pregledano %1$d od %2$d datotek.</string>
     <string name="could_not_scan_files">Ne morem pregledati %d datotek.</string>
+    <string name="listing_files">Seznam datotek</string>
     <string name="new_start_directory">%s je nov začetni imenik.</string>
     <string name="app_widget_big_name">Phonograph - velik</string>
     <string name="app_widget_classic_name">Phonograph - klasični</string>
@@ -305,4 +310,5 @@ To dovolite le, če imate težave z umetniškimi deli z nizko ločljivostjo.</st
     <string name="sort_order_artist">Izvajalec</string>
     <string name="sort_order_album">Album</string>
     <string name="sort_order_year">Leto</string>
+    <string name="finish_current_music_sleep_timer">Končaj zadnjo pesem</string>
 </resources>
