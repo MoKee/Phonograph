@@ -176,6 +176,7 @@ To dovolite le, če imate težave z umetniškimi deli z nizko ločljivostjo.</st
     <string name="search_hint">Poiščite svojo knjižnico…</string>
     <string name="favorites">Priljubljene</string>
     <string name="last_added">Nazadnje dodano</string>
+    <string name="history">Nedavno predvajano</string>
     <string name="my_top_tracks">Moje top skladbe</string>
     <string name="not_recently_played">Nekaj časa nepredvajano</string>
     <string name="remove_cover">Odstrani naslovnico</string>

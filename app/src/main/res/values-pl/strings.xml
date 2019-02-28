@@ -175,6 +175,7 @@
     <string name="search_hint">Szukaj w bibliotece...</string>
     <string name="favorites">Ulubione</string>
     <string name="last_added">Ostatnio dodane</string>
+    <string name="history">Ostatnio odtwarzane</string>
     <string name="my_top_tracks">Moja Top Lista</string>
     <string name="not_recently_played">Ostatnio nieodtwarzane</string>
     <string name="remove_cover">Usuń okładkę</string>
