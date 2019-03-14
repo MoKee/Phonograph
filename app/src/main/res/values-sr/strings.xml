@@ -20,6 +20,7 @@
     <string name="never">Никада</string>
     <string name="equalizer">Еквилајзер</string>
     <string name="pref_header_colors">Боје</string>
+    <string name="pref_header_notification">Обавештења</string>
     <string name="delete_action">Избриши</string>
     <string name="clear_action">Обриши</string>
     <string name="remove_action">Уклони</string>
