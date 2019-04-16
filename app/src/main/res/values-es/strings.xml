@@ -68,7 +68,9 @@
     <string name="changelog">Registro de cambios</string>
     <string name="version">Versión</string>
     <string name="translate">Traducir</string>
+    <string name="rate_on_google_play">Puntuar</string>
     <string name="donate">Dona</string>
+    <string name="website">Sitio Web</string>
     <string name="title">Título</string>
     <string name="description">Descripción</string>
     <string name="username">Nombre de usuario</string>
