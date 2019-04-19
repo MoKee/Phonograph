@@ -131,7 +131,6 @@
     <string name="pref_title_ignore_media_store_artwork">Prezri ovitke iz trgovine</string>
     <string name="pref_title_gapless_playback">Brez presledkov</string>
     <string name="pref_title_audio_ducking">Zmanjšaj glasnost pri izgubi pozornosti</string>
-    <string name="pref_title_recently_played_interval">Pred kratkim predvajani interval predvajanja</string>
     <string name="pref_title_last_added_interval">Interval nazadnje dodanega seznama</string>
     <string name="pref_title_synchronized_lyrics_show">Prikaz sinhroniziranih besedil</string>
     <string name="pref_title_remember_last_tab">Zapomni si zadnji zavihek</string>
@@ -178,7 +177,6 @@ To dovolite le, če imate težave z umetniškimi deli z nizko ločljivostjo.</st
     <string name="last_added">Nazadnje dodano</string>
     <string name="history">Nedavno predvajano</string>
     <string name="my_top_tracks">Moje top skladbe</string>
-    <string name="not_recently_played">Nekaj časa nepredvajano</string>
     <string name="remove_cover">Odstrani naslovnico</string>
     <string name="download_from_last_fm">Prenos iz Last.fm</string>
     <string name="pick_from_local_storage">Izberi iz lokalne shrambe</string>

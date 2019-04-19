@@ -131,7 +131,6 @@
     <string name="pref_title_ignore_media_store_artwork">忽略媒体储存中的专辑封面</string>
     <string name="pref_title_gapless_playback">无缝播放</string>
     <string name="pref_title_audio_ducking">音频焦点丢失时降低音量</string>
-    <string name="pref_title_recently_played_interval">最近播放列表间隔</string>
     <string name="pref_title_last_added_interval">最近添加播放列表间隔</string>
     <string name="pref_title_synchronized_lyrics_show">显示同步歌词</string>
     <string name="pref_title_remember_last_tab">记住最后打开页面</string>
@@ -177,7 +176,6 @@
     <string name="last_added">最近添加</string>
     <string name="history">最近播放</string>
     <string name="my_top_tracks">最喜爱的歌曲</string>
-    <string name="not_recently_played">最近没有播放过</string>
     <string name="remove_cover">移除专辑封面</string>
     <string name="download_from_last_fm">从 Last.fm 上下载</string>
     <string name="pick_from_local_storage">从本地储存中选取</string>

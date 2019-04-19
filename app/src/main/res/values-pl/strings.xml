@@ -131,7 +131,6 @@
     <string name="pref_title_ignore_media_store_artwork">Ignoruj okładki z Media Store</string>
     <string name="pref_title_gapless_playback">Odtwarzanie bez przerw</string>
     <string name="pref_title_audio_ducking">Zmniejszaj głośność przy powiadomieniach</string>
-    <string name="pref_title_recently_played_interval">Ostatnio odtwarzany przedział listy odtwarzania</string>
     <string name="pref_title_last_added_interval">Okres ostatnio dodanych list odtwarzania</string>
     <string name="pref_title_synchronized_lyrics_show">Pokazuj zsynchronizowany tekst</string>
     <string name="pref_title_remember_last_tab">Zapamiętaj ostatnią kartę</string>
@@ -177,7 +176,6 @@
     <string name="last_added">Ostatnio dodane</string>
     <string name="history">Ostatnio odtwarzane</string>
     <string name="my_top_tracks">Moja Top Lista</string>
-    <string name="not_recently_played">Ostatnio nieodtwarzane</string>
     <string name="remove_cover">Usuń okładkę</string>
     <string name="download_from_last_fm">Pobierz z last.fm</string>
     <string name="pick_from_local_storage">Wybierz z pamięci lokalnej</string>

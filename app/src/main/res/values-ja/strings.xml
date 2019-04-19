@@ -131,7 +131,6 @@
     <string name="pref_title_ignore_media_store_artwork">メディアストアのアートを無視する</string>
     <string name="pref_title_gapless_playback">ギャップレス再生</string>
     <string name="pref_title_audio_ducking">音声フォーカス喪失時に音量を下げる</string>
-    <string name="pref_title_recently_played_interval">最近再生したプレイリスト間隔</string>
     <string name="pref_title_last_added_interval">最近追加された曲に含まれる期間</string>
     <string name="pref_title_synchronized_lyrics_show">同期された歌詞を表示</string>
     <string name="pref_title_remember_last_tab">最後のタブの記憶</string>
@@ -176,7 +175,6 @@
     <string name="favorites">お気に入り</string>
     <string name="last_added">最近追加された曲</string>
     <string name="my_top_tracks">よく聞く曲</string>
-    <string name="not_recently_played">最近再生した曲</string>
     <string name="remove_cover">アルバムアートを除去</string>
     <string name="download_from_last_fm">Last.fmからダウンロード</string>
     <string name="pick_from_local_storage">ローカルストレージから選択</string>

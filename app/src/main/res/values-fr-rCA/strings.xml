@@ -131,7 +131,6 @@
     <string name="pref_title_ignore_media_store_artwork">Ignorer le stockage des pochettes</string>
     <string name="pref_title_gapless_playback">Lecture sans coupure</string>
     <string name="pref_title_audio_ducking">Réduire le volume lorse que le focus est interrompu</string>
-    <string name="pref_title_recently_played_interval">Intervalle de playlist joué récemment</string>
     <string name="pref_title_last_added_interval">Intervalle de la playlist \"Derniers ajouts\"</string>
     <string name="pref_title_synchronized_lyrics_show">Afficher les paroles synchronisées</string>
     <string name="pref_title_remember_last_tab">Se souvenir de la dernière fenêtre</string>
@@ -177,7 +176,6 @@
     <string name="last_added">Derniers ajouts</string>
     <string name="history">Récemment lu</string>
     <string name="my_top_tracks">Mes meilleurs titres</string>
-    <string name="not_recently_played">Pas joués récemment</string>
     <string name="remove_cover">Supprimer la pochette</string>
     <string name="download_from_last_fm">Télécharger depuis Last.fm</string>
     <string name="pick_from_local_storage">Sélectionner depuis le stockage</string>
@@ -237,6 +235,7 @@
     <string name="failed_to_save_playlist">Impossible de sauvegarder la liste de lecture (%s).</string>
     <string name="saved_x_playlists_to_x">Playlists sauvé %1$d à %2$s.</string>
     <string name="saved_x_playlists_to_x_failed_to_save_x">Sauvegarde playlists %1$d à %2$s, erreur de sauvegarde %3$d.</string>
+    <string name="not_listed_in_media_store">&lt;b&gt;%s&lt;/b&gt; n\'est pas dans le catalogue de médias.</string>
     <string name="some_files_are_not_listed_in_the_media_store">Des fichiers ne sont pas listés dans les documents.</string>
     <string name="nothing_to_scan">Rien à analyser.</string>
     <string name="scanned_files">%1$d fichiers scannés sur %2$d.</string>

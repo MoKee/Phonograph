@@ -131,7 +131,6 @@
     <string name="pref_title_ignore_media_store_artwork">A médiatár albumborítók figyelmen kívül hagyása</string>
     <string name="pref_title_gapless_playback">Áttűnéses lejátszás</string>
     <string name="pref_title_audio_ducking">Hangerő csökkentése</string>
-    <string name="pref_title_recently_played_interval">A legutóbb hallgatott lejátszási lista intervalluma</string>
     <string name="pref_title_last_added_interval">Utoljára hozzáadott lejátszási lista intervallum</string>
     <string name="pref_title_synchronized_lyrics_show">Szinkronizált dalszöveg</string>
     <string name="pref_title_remember_last_tab">Emlékezz az utolsó fülre</string>
@@ -177,7 +176,6 @@
     <string name="last_added">Legfrissebb dalok</string>
     <string name="history">Nemrég lejátszott</string>
     <string name="my_top_tracks">Toplista</string>
-    <string name="not_recently_played">Nem található legutóbb hallgatott</string>
     <string name="remove_cover">Borító eltávolítása</string>
     <string name="download_from_last_fm">Letöltés a Last.fm-ről</string>
     <string name="pick_from_local_storage">Kiválasztás az eszközről</string>

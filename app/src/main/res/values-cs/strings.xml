@@ -131,7 +131,6 @@
     <string name="pref_title_ignore_media_store_artwork">Ignorovat obaly Media Storu</string>
     <string name="pref_title_gapless_playback">Nepřerušované přehrávání</string>
     <string name="pref_title_audio_ducking">Snížit hlasitost při ztrátě priority zvuku</string>
-    <string name="pref_title_recently_played_interval">Interval mezi posledně přehranými seznamy skladeb</string>
     <string name="pref_title_last_added_interval">Poslední přidaný interval seznamu skladeb</string>
     <string name="pref_title_synchronized_lyrics_show">Zobrazit synchronizované texty</string>
     <string name="pref_title_remember_last_tab">Pamatovat poslední kartu</string>
@@ -177,7 +176,6 @@
     <string name="last_added">Naposledy přidáno</string>
     <string name="history">Nedávno přehrávané</string>
     <string name="my_top_tracks">Mé nejlepší skladby</string>
-    <string name="not_recently_played">Žádné nedávno přehrávané</string>
     <string name="remove_cover">Odstranit obal</string>
     <string name="download_from_last_fm">Stáhnout z Last.fm</string>
     <string name="pick_from_local_storage">Vybrat z místního úložiště</string>
