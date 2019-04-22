@@ -107,6 +107,7 @@
     <string name="never">Nunca</string>
     <string name="today">Hoy</string>
     <string name="this_week">Esta semana</string>
+    <string name="past_seven_days">Últimos 7 días</string>
     <string name="this_month">Este mes</string>
     <string name="past_three_months">Últimos 3 meses</string>
     <string name="this_year">Este año</string>
@@ -306,4 +307,5 @@
     <string name="sort_order_artist">Artista</string>
     <string name="sort_order_album">Álbum</string>
     <string name="sort_order_year">Año</string>
+    <string name="finish_current_music_sleep_timer">Finalizar última canción</string>
 </resources>

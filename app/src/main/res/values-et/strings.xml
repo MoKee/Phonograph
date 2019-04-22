@@ -13,6 +13,7 @@
     <string name="select_all_title">Vali kõik</string>
     <string name="today">Täna</string>
     <string name="equalizer">Ekvalaiser</string>
+    <string name="pref_header_notification">Teade</string>
     <string name="delete_action">Kustuta</string>
     <string name="clear_action">Tühjenda</string>
     <string name="remove_action">Eemalda</string>
