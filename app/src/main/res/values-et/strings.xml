@@ -45,6 +45,7 @@
     <string name="genre">Žanr</string>
     <string name="album_artist">Albumi esitaja</string>
     <string name="year">Aasta</string>
+    <string name="track_hint">"Lugu (2 loole 2 või 3004 loole 4 CD3)"</string>
     <string name="lyrics">Laulusõnad</string>
     <string name="album_or_artist_empty">Pealkiri või esitaja on tühi.</string>
     <string name="saving_changes">Muudatuste salvestamine</string>
@@ -160,6 +161,7 @@
     <string name="pref_summary_album_art_on_lockscreen">Kasutab praeguste laulude albumi kaant lukustusekraanina.</string>
     <string name="pref_summary_blurred_album_art">Häirib lukustusekraanil olev albumi kaan. Võib põhjustada probleeme kolmandate osapoolte rakenduste ja vidinatega.</string>
     <string name="pref_summary_classic_notification">Kasutage klassikalist teatise kujundust.</string>
+    <string name="pref_summary_colored_notification">"Albumi kaanel olevad teatised\u2019s eredat värvi."</string>
     <string name="pref_summary_gapless_playback">"Võib põhjustada mõnedes seadmetes esitusprobleeme."</string>
     <string name="pref_summary_ignore_media_store_artwork">Võib suurendada albumi kaane kvaliteeti, kuid põhjustab aeglasemat pildi laadimise aega. Lubage see ainult siis, kui teil on probleeme madala eraldusvõimega kunstiteostega.</string>
     <string name="pref_summary_colored_navigation_bar">Värvib navigeerimisriba põhivärviga.</string>
@@ -169,6 +171,7 @@
     <string name="pref_summary_remember_last_tab">Avage viimane avatud vahekaart käivitamisel</string>
     <string name="pref_summary_remember_shuffle">Uue laulu loendi valimisel jääb juhuesitlus režiim sisse</string>
     <string name="could_not_download_album_cover">"Sobivat\u2019t albumikaant ei õnnestunud alla laadida."</string>
+    <string name="search_hint">Otsige oma teekides…</string>
     <string name="favorites">Lemmikud</string>
     <string name="last_added">Viimati lisatud</string>
     <string name="history">Hiljuti mängitud</string>
@@ -216,6 +219,7 @@
     <string name="rate_on_google_play_summary">Kui soovite Phonographi, jätke Google Playsse positiivne hinnang.</string>
     <string name="donate">Toeta</string>
     <string name="donate_summary">Kui te arvate, et ma väärin oma töö eest tasu, võite siia jätta mulle paar dollarit.</string>
+    <string name="aidan_follestad_summary">Teemamootori ja mõne muu laheda funktsiooni jaoks.</string>
     <string name="michael_cook_summary">Päris materjali rakenduse ikooni jaoks.</string>
     <string name="maarten_corpel_summary">Play Store\'i illustratsiooni ja tühja albumi kaane tegemiseks.</string>
     <string name="aleksandar_tesic_summary">Abista mind disainimisel.</string>
@@ -290,8 +294,11 @@
     <string name="do_you_want_to_remove_from_the_blacklist">Kas soovite eemaldada &lt;b&gt;%1$s&lt;/b&gt; mustast nimekirjast?</string>
     <string name="clear_blacklist">Puhasta must nimekiri</string>
     <string name="do_you_want_to_clear_the_blacklist">Kas soovite musta nimekirja kustutada?</string>
+    <string name="pref_summary_blacklist">Mustade nimekirjadega kaustade sisu on teie teekide eest peidetud.</string>
     <string name="reset_artist_image">Lähtesta esitaja pilt</string>
     <string name="set_artist_image">Määra esitaja pilt</string>
+    <string name="library_categories">Teekide katekooriad</string>
+    <string name="pref_summary_library_categories">Seadistage teekide kategooriate nähtavus ja järjekord.</string>
     <string name="you_have_to_select_at_least_one_category">Sa pead valima vähemalt ühe kategooria.</string>
     <string name="action_scan_directory">Skaneeri kataloog</string>
     <string name="scan_media">Skannige meediat</string>
