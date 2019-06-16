@@ -309,4 +309,5 @@
     <string name="sort_order_album">Album</string>
     <string name="sort_order_year">Anno</string>
     <string name="finish_current_music_sleep_timer">Dopo aver ascoltato l\'ultima canzone</string>
+    <string name="dialog_ringtone_title">Imposta suoneria</string>
 </resources>
