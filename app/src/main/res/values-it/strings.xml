@@ -73,6 +73,7 @@
     <string name="playlist_exists">La playlist %1$s esiste già.</string>
     <string name="could_not_create_playlist">Impossibile creare la playlist.</string>
     <string name="delete_playlist_x">Eliminare la playlist &amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;?</string>
+    <string name="clear_playlist_x">Vuoi svuotare la playlist &lt;b&gt;%1$s&lt;/b&gt;? L\u2019 operazione non può essere annullata!</string>
     <string name="delete_x_playlists">Eliminare &amp;lt;b&amp;gt;%1$d&amp;lt;/b&amp;gt; playlist?</string>
     <string name="delete_song_x">Eliminare il brano &amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;?</string>
     <string name="delete_x_songs">Eliminare &amp;lt;b&amp;gt;%1$d&amp;lt;/b&amp;gt; brani?</string>
@@ -310,4 +311,5 @@
     <string name="sort_order_year">Anno</string>
     <string name="finish_current_music_sleep_timer">Dopo aver ascoltato l\'ultima canzone</string>
     <string name="dialog_ringtone_title">Imposta suoneria</string>
+    <string name="dialog_ringtone_message">Consenti la modifica delle impostazioni audio</string>
 </resources>
