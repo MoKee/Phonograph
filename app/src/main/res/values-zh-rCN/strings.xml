@@ -310,4 +310,5 @@
     <string name="sort_order_year">年份</string>
     <string name="finish_current_music_sleep_timer">完成最后一首歌</string>
     <string name="dialog_ringtone_title">设置铃声</string>
+    <string name="dialog_ringtone_message">允许Phonograph修改音频设置</string>
 </resources>
