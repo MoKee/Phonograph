@@ -107,6 +107,7 @@
     <string name="never">Không bao giờ</string>
     <string name="today">Hôm nay</string>
     <string name="this_week">Tuần này</string>
+    <string name="past_seven_days">7 ngày gần đây</string>
     <string name="this_month">Tháng này</string>
     <string name="past_three_months">3 tháng qua</string>
     <string name="this_year">Năm nay</string>
@@ -133,6 +134,7 @@
     <string name="pref_title_last_added_interval">Thời gian danh sách nhạc được thêm vào sau cùng</string>
     <string name="pref_title_synchronized_lyrics_show">Hiển thị lời bài hát được đồng bộ</string>
     <string name="pref_title_remember_last_tab">Hãy nhớ rằng tab cuối</string>
+    <string name="pref_title_remember_shuffle">Nhớ xáo trộn</string>
     <string name="no_equalizer">Không có bộ lọc âm thanh nào.</string>
     <string name="no_audio_ID">"Phát một bài hát đầu tiên, sau đó thử lại."</string>
     <string name="delete_action">Xóa</string>
@@ -305,4 +307,5 @@
     <string name="sort_order_artist">Nghệ sĩ</string>
     <string name="sort_order_album">Album</string>
     <string name="sort_order_year">Năm</string>
+    <string name="finish_current_music_sleep_timer">Bài hát cuối kết thúc</string>
 </resources>
