@@ -12,6 +12,7 @@
     <string name="label_file_size">Izmēri</string>
     <string name="select_all_title">Atlasīt visu</string>
     <string name="equalizer">Ekvalaizers</string>
+    <string name="pref_header_notification">Paziņojums</string>
     <string name="delete_action">Dzēst</string>
     <string name="clear_action">Notīrīt</string>
     <string name="remove_action">Noņemt</string>

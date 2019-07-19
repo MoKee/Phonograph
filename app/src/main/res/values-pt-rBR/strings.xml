@@ -174,6 +174,7 @@
     <string name="search_hint">Pesquisar na sua biblioteca...</string>
     <string name="favorites">Favoritos</string>
     <string name="last_added">Última Adição</string>
+    <string name="history">Tocado recentemente</string>
     <string name="my_top_tracks">Minhas melhores faixas</string>
     <string name="remove_cover">Remover capa</string>
     <string name="download_from_last_fm">Baixar do Last.fm</string>
@@ -308,4 +309,6 @@
     <string name="sort_order_album">Álbum</string>
     <string name="sort_order_year">Ano</string>
     <string name="finish_current_music_sleep_timer">Terminar última música</string>
+    <string name="dialog_ringtone_title">Definir toque</string>
+    <string name="dialog_ringtone_message">Permitir que o fonógrafo modifique as configurações de áudio</string>
 </resources>
