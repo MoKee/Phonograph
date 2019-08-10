@@ -186,6 +186,7 @@
     <string name="thank_you">Obrigado!</string>
     <string name="version">Versão</string>
     <string name="author">Autor</string>
+    <string name="write_an_email">Escreva um e-mail</string>
     <string name="follow_on_twitter">Seguir no Twitter</string>
     <string name="visit_website">Visitar sítio na Internet</string>
     <string name="report_bugs">Reportar erros</string>
@@ -245,11 +246,16 @@
     <string name="playlist_is_empty">A lista de reprodução está vazia</string>
     <string name="playing_notification_name">Notificação de reprodução</string>
     <string name="restoring_purchase">A restaurar a compra…</string>
+    <string name="purchase">Compra</string>
     <string name="restore">Restaurar</string>
+    <string name="no_purchase_found">Nenhuma compra encontrada.</string>
     <string name="add_action">Adicionar</string>
     <string name="blacklist">Lista negra</string>
     <string name="remove_from_blacklist">Remover da lista negra</string>
     <string name="clear_blacklist">Limpar lista negra</string>
+    <string name="library_categories">Categorias de biblioteca</string>
+    <string name="action_scan_directory">Pesquisar diretoria</string>
+    <string name="scan_media">Pesqusiar unidade</string>
     <string name="action_sort_order">Ordenação</string>
     <string name="sort_order_a_z">Ascendente</string>
     <string name="sort_order_z_a">Descendente</string>
