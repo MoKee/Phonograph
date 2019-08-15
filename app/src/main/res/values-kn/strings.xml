@@ -95,6 +95,7 @@
     <string name="clear_action">ತೆರವುಗೊಳಿಸು</string>
     <string name="remove_action">ತೆಗೆದುಹಾಕಿ</string>
     <string name="rename_action">ಮರುಹೆಸರಿಸಿ</string>
+    <string name="create_action">ರಚಿಸಿ</string>
     <string name="reset_action">ಮರುಹೊಂದಿಸು</string>
     <string name="update_image">ಚಿತ್ರ ನವೀಕರಿಸು</string>
     <string name="playlist_empty_text">ಖಾಲಿ ಚಲಿಸುವಪಟ್ಟಿ</string>
@@ -109,7 +110,9 @@
     <string name="favorites">ಮೆಚ್ಚಿನ</string>
     <string name="changelog">ಬದಲಾವಣೆ ಲಾಗ್</string>
     <string name="version">ಆವೃತ್ತಿ</string>
+    <string name="rate_on_google_play">ದರ</string>
     <string name="donate">ಕಾಣಿಕೆ</string>
+    <string name="website">ಜಾಲತಾಣ</string>
     <string name="title">ಶೀರ್ಷಿಕೆ</string>
     <string name="description">ವಿವರಣೆ</string>
     <string name="password">ಪ್ರವೇಶಪದ</string>
