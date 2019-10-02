@@ -83,7 +83,9 @@
     <string name="clear_playlist_title">ಪ್ಲೇಪಟ್ಟಿಯನ್ನು ಬರಿದುಗೊಳಿಸಿ</string>
     <string name="save_playlist_title">ಕಡತವಾಗಿ ಉಳಿಸು</string>
     <string name="save_playlists_title">ಕಡತಗಳನ್ನಾಗಿ ಉಳಿಸು</string>
+    <string name="add_playlist_title">"ಚಲಿಸುವ ಪಟ್ಟಿಗೆ ಸೇರಿಸು"</string>
     <string name="select_all_title">ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="action_shuffle_all">ಎಲ್ಲ ತಿರುವು-ಮುರುವು ಮಾಡಿ</string>
     <string name="dark_theme_name">ಗಾಢ ಹಿನ್ನೆಲೆ</string>
     <string name="never">ಎಂದಿಗೂ</string>
     <string name="today">ಈ ದಿನ</string>
@@ -91,12 +93,14 @@
     <string name="pref_header_colors">ಬಣ್ಣಗಳು</string>
     <string name="pref_header_playlists">ಪ್ಲೇಪಟ್ಟಿಗಳು</string>
     <string name="pref_header_notification">ಅಧಿಸೂಚನೆಗಳು</string>
+    <string name="pref_title_colored_notification">ಅಧಿಸೂಚನೆಗಳಿಗೆ ಬಣ್ಣ ನೀಡು</string>
     <string name="delete_action">ಅಳಿಸು</string>
     <string name="clear_action">ತೆರವುಗೊಳಿಸು</string>
     <string name="remove_action">ತೆಗೆದುಹಾಕಿ</string>
     <string name="rename_action">ಮರುಹೆಸರಿಸಿ</string>
     <string name="create_action">ರಚಿಸಿ</string>
     <string name="reset_action">ಮರುಹೊಂದಿಸು</string>
+    <string name="primary_color">ಪ್ರಾಥಮಿಕ ಬಣ್ಣ</string>
     <string name="update_image">ಚಿತ್ರ ನವೀಕರಿಸು</string>
     <string name="playlist_empty_text">ಖಾಲಿ ಚಲಿಸುವಪಟ್ಟಿ</string>
     <string name="no_playlists">ಚಲಿಸುವಪಟ್ಟಿ ಇಲ್ಲ</string>
@@ -108,6 +112,9 @@
     <string name="playlist_name_empty">ಚಲಿಸುವಪಟ್ಟಿಯ ಹೆಸರು</string>
     <string name="song">ಗೀತೆ</string>
     <string name="favorites">ಮೆಚ್ಚಿನ</string>
+    <string name="last_added">ಕೊನೆಯ ಸೇರಿಕೆ</string>
+    <string name="pick_from_local_storage">ಸ್ಥಳೀಯ ಸಂಗ್ರಹಣೆಯಿಂದ ಆರಿಸಿ</string>
+    <string name="action_set">ಹೊಂದಿಸು</string>
     <string name="changelog">ಬದಲಾವಣೆ ಲಾಗ್</string>
     <string name="version">ಆವೃತ್ತಿ</string>
     <string name="rate_on_google_play">ದರ</string>
@@ -116,8 +123,10 @@
     <string name="title">ಶೀರ್ಷಿಕೆ</string>
     <string name="description">ವಿವರಣೆ</string>
     <string name="password">ಪ್ರವೇಶಪದ</string>
+    <string name="app_shortcut_last_added_short">ಕೊನೆಯ ಸೇರಿಕೆ</string>
     <string name="restore">ಮರುಸಂಗ್ರಹಿಸಿ</string>
     <string name="add_action">ಸೇರಿಸಿ</string>
     <string name="sort_order_artist">ಕಲಾವಿದ</string>
+    <string name="sort_order_album">ಆಲ್ಬಂ</string>
     <string name="sort_order_year">ವರ್ಷ</string>
 </resources>
