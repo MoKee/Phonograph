@@ -18,6 +18,4 @@
 -->
 <resources>
     <string name="original_author">原作者</string>
-    <string name="app_name">留声机</string>
-    <string name="welcome_to_phonograph_mk">"欢迎使用%s，这是一款精致且简洁的 Android 音乐播放器。"</string>
 </resources>
