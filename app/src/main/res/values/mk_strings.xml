@@ -17,4 +17,6 @@
 -->
 <resources>
     <string name="original_author">Original author</string>
+    <string name="app_name">Phonograph</string>
+    <string name="welcome_to_phonograph_mk">"Welcome to %s, a beautiful and lightweight music player for Android."</string>
 </resources>

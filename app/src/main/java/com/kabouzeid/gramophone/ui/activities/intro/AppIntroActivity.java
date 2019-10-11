@@ -23,7 +23,7 @@ public class AppIntroActivity extends IntroActivity {
 
         addSlide(new SimpleSlide.Builder()
                 .title(R.string.app_name)
-                .description(R.string.welcome_to_phonograph)
+                .description(getString(R.string.welcome_to_phonograph_mk, getString(R.string.app_name)))
                 .image(R.drawable.icon_web)
                 .background(R.color.md_blue_grey_100)
                 .backgroundDark(R.color.md_blue_grey_200)
