@@ -36,6 +36,12 @@ android {
         applicationId 'com.kabouzeid.gramophone'
         versionCode 175
         versionName '1.3.1'
+
+        android.applicationVariants.all { variant ->
+            variant.outputs.all {
+                outputFileName = "Phonograph.apk"
+            }
+        }
     }
     signingConfigs {
         release {
