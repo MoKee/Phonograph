@@ -114,6 +114,11 @@
     <string name="create_action">Crear</string>
     <string name="reset_action">Restablecer</string>
     <string name="accent_color">Color del énfasis</string>
+    <string name="no_playlists">No hay playlists</string>
+    <string name="no_albums">No hay álbumes</string>
+    <string name="no_songs">No hay canciones</string>
+    <string name="no_artists">No hay artistas</string>
+    <string name="no_genres">No hay géneros</string>
     <string name="empty">Vacío</string>
     <string name="song">Canción</string>
     <string name="pref_summary_gapless_playback">"Puede causar problemas de reproducción en algunos dispositivos."</string>
