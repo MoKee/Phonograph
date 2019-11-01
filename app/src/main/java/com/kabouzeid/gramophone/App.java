@@ -21,8 +21,6 @@ public class App extends Application {
 
     private static App app;
 
-//    private BillingProcessor billingProcessor;
-
     @Override
     public void onCreate() {
         super.onCreate();
@@ -41,29 +39,9 @@ public class App extends Application {
             new DynamicShortcutManager(this).initDynamicShortcuts();
         }
 
-        // automatically restores purchases
-//         billingProcessor = new BillingProcessor(this, App.GOOGLE_PLAY_LICENSE_KEY, new BillingProcessor.IBillingHandler() {
-//             @Override
-//             public void onProductPurchased(@NonNull String productId, TransactionDetails details) {
-//             }
-
-//             @Override
-//             public void onPurchaseHistoryRestored() {
-// //                Toast.makeText(App.this, R.string.restored_previous_purchase_please_restart, Toast.LENGTH_LONG).show();
-//             }
-
-//             @Override
-//             public void onBillingError(int errorCode, Throwable error) {
-//             }
-
-//             @Override
-//             public void onBillingInitialized() {
-//             }
-//         });
     }
 
     public static boolean isProVersion() {
-//        return BuildConfig.DEBUG || app.billingProcessor.isPurchased(PRO_VERSION_PRODUCT_ID);
         return true;
     }
 
@@ -74,6 +52,5 @@ public class App extends Application {
     @Override
     public void onTerminate() {
         super.onTerminate();
-//        billingProcessor.release();
     }
 }

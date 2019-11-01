@@ -58,7 +58,6 @@ public class MainActivity extends AbsSlidingMusicPanelActivity {
 
     public static final String TAG = MainActivity.class.getSimpleName();
     public static final int APP_INTRO_REQUEST = 100;
-    public static final int PURCHASE_REQUEST = 101;
 
     private static final int LIBRARY = 0;
     private static final int FOLDERS = 1;
@@ -100,12 +99,6 @@ public class MainActivity extends AbsSlidingMusicPanelActivity {
     }
 
     private void setMusicChooser(int key) {
-        if (!App.isProVersion() && key == FOLDERS) {
-            Toast.makeText(this, R.string.folder_view_is_a_pro_feature, Toast.LENGTH_LONG).show();
-            startActivityForResult(new Intent(this, PurchaseActivity.class), PURCHASE_REQUEST);
-            key = LIBRARY;
-        }
-
         PreferenceUtil.getInstance(this).setLastMusicChooser(key);
         switch (key) {
             case LIBRARY:
@@ -136,11 +129,6 @@ public class MainActivity extends AbsSlidingMusicPanelActivity {
             if (!hasPermissions()) {
                 requestPermissions();
             }
-            checkSetUpPro(); // good chance that pro version check was delayed on first start
-        } else if (requestCode == PURCHASE_REQUEST) {
-            if (resultCode == RESULT_OK) {
-                checkSetUpPro();
-            }
         }
     }
 
@@ -163,7 +151,6 @@ public class MainActivity extends AbsSlidingMusicPanelActivity {
         NavigationViewUtil.setItemIconColors(navigationView, ATHUtil.resolveColor(this, R.attr.iconColor, ThemeStore.textColorSecondary(this)), accentColor);
         NavigationViewUtil.setItemTextColors(navigationView, ThemeStore.textColorPrimary(this), accentColor);
 
-        checkSetUpPro();
         navigationView.setNavigationItemSelectedListener(menuItem -> {
             drawerLayout.closeDrawers();
             switch (menuItem.getItemId()) {
@@ -172,9 +159,6 @@ public class MainActivity extends AbsSlidingMusicPanelActivity {
                     break;
                 case R.id.nav_folders:
                     new Handler().postDelayed(() -> setMusicChooser(FOLDERS), 200);
-                    break;
-                case R.id.buy_pro:
-                    new Handler().postDelayed(() -> startActivityForResult(new Intent(MainActivity.this, PurchaseActivity.class), PURCHASE_REQUEST), 200);
                     break;
                 case R.id.action_scan:
                     new Handler().postDelayed(() -> {
@@ -191,16 +175,6 @@ public class MainActivity extends AbsSlidingMusicPanelActivity {
             }
             return true;
         });
-    }
-
-    private void checkSetUpPro() {
-        if (App.isProVersion()) {
-            setUpPro();
-        }
-    }
-
-    private void setUpPro() {
-        navigationView.getMenu().removeGroup(R.id.navigation_drawer_menu_category_buy_pro);
     }
 
     private void setUpDrawerLayout() {

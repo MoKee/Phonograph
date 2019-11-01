@@ -203,12 +203,6 @@ public class AboutActivity extends AbsBaseActivity implements View.OnClickListen
             openUrl(TRANSLATE);
         } else if (v == rateOnGooglePlay) {
             openUrl(RATE_ON_GOOGLE_PLAY);
-        } else if (v == donate) {
-            if (App.isProVersion()) {
-                DonationsDialog.create().show(getSupportFragmentManager(), "DONATION_DIALOG");
-            } else {
-                startActivity(new Intent(this, PurchaseActivity.class));
-            }
         } else if (v == aidanFollestadGooglePlus) {
             openUrl(AIDAN_FOLLESTAD_GOOGLE_PLUS);
         } else if (v == aidanFollestadGitHub) {
