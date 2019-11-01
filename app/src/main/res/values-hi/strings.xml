@@ -26,6 +26,5 @@
     <string name="title">शीर्षक</string>
     <string name="description">विवरण</string>
     <string name="password">पासवर्ड</string>
-    <string name="restore">आयात</string>
     <string name="add_action">जोड़ें</string>
 </resources>

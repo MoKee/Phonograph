@@ -195,11 +195,7 @@
     <string name="permissions_denied">У доступі відмовлено.</string>
     <string name="permission_external_storage_denied">Дозвіл на доступ до зовнішньої пам\'яті відмовлено.</string>
     <string name="support_development">Підтримати розробника</string>
-    <string name="buy_pro">Придбайте Phonograph Pro</string>
-    <string name="thank_you">Щиро дякую!</string>
-    <string name="restored_previous_purchase_please_restart">Відновлено попередню покупку. Перезапустіть додаток, щоб скористатися всіма функціями.</string>
     <string name="version">Версія</string>
-    <string name="author">Автор</string>
     <string name="write_an_email">Написати листа</string>
     <string name="follow_on_twitter">Слідкувати у Твіттері</string>
     <string name="fork_on_github">Форк на GitHub</string>
@@ -217,11 +213,9 @@
     <string name="maarten_corpel_summary">За ілюстрацію в Play Store та пусте зображення обкладинки альбому.</string>
     <string name="aleksandar_tesic_summary">За допомогу в дизайні.</string>
     <string name="website">Веб-сайт</string>
-    <string name="loading_products">Завантаження продуктів...</string>
     <string name="up_next">До наступного</string>
     <string name="pref_title_now_playing_screen_appearance">Вигляд</string>
     <string name="intro_label">Знайомство</string>
-    <string name="welcome_to_phonograph">"Вітаємо вас у Phonograph, красивому та легкому музичному програвачу на Android. "</string>
     <string name="open_playing_queue_instruction">Свайпніть картку на екрані «Зараз грає» щоб відкрити всю чергу відтворення.</string>
     <string name="rearrange_playing_queue_instruction">Змініть чергу відтворення, перетягнувши пісню за її номер.</string>
     <string name="library">Бібліотека</string>
@@ -257,7 +251,6 @@
     <string name="bug_report_failed_wrong_credentials">Неправильне ім’я користувача або пароль</string>
     <string name="bug_report_failed_invalid_token">Недійсний токен доступу. Зв’яжіться з розробником додатка.</string>
     <string name="app_shortcut_last_added_short">Останні додані</string>
-    <string name="restore">Відновити</string>
     <string name="add_action">Додати</string>
     <string name="remove_from_blacklist">Видалити з чорного списку</string>
     <string name="do_you_want_to_remove_from_the_blacklist">Вилучити &amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt; з чорного списку?</string>

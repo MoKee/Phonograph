@@ -43,6 +43,5 @@
     <string name="title">Назва</string>
     <string name="description">Апісанне</string>
     <string name="password">Пароль</string>
-    <string name="restore">Аднавіць з рэзервовай копіі</string>
     <string name="add_action">Дадаць</string>
 </resources>

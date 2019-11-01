@@ -28,6 +28,5 @@
     <string name="title">Tittel</string>
     <string name="description">Beskrivelse</string>
     <string name="password">Passord</string>
-    <string name="restore">Gjenopprett</string>
     <string name="add_action">Legg til</string>
 </resources>

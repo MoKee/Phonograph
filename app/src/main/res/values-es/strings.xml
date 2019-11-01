@@ -145,11 +145,7 @@
     <string name="permissions_denied">Permisos denegados.</string>
     <string name="permission_external_storage_denied">Permiso para acceder al almacenamiento externo denegado.</string>
     <string name="support_development">Apoyar el desarrollo</string>
-    <string name="buy_pro">Comprar Phonograph Pro</string>
-    <string name="thank_you">¡Muchas gracias!</string>
-    <string name="restored_previous_purchase_please_restart">Restaurada la compra anterior. Reinicia la aplicación para hacer uso de todas las características.</string>
     <string name="version">Versión</string>
-    <string name="author">Autor</string>
     <string name="write_an_email">Escribir un email</string>
     <string name="follow_on_twitter">Seguir en Twitter</string>
     <string name="visit_website">Visitar sitio web</string>
@@ -166,7 +162,6 @@
     <string name="username">Nombre de usuario</string>
     <string name="password">Contraseña</string>
     <string name="app_shortcut_last_added_short">Último añadido</string>
-    <string name="restore">Restaurar</string>
     <string name="add_action">Añadir</string>
     <string name="sort_order_artist">Artista</string>
     <string name="sort_order_album">Album</string>

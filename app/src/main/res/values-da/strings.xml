@@ -35,6 +35,5 @@
     <string name="title">Titel</string>
     <string name="description">Beskrivelse</string>
     <string name="password">Adgangskode</string>
-    <string name="restore">Gendan</string>
     <string name="add_action">Tilføj</string>
 </resources>

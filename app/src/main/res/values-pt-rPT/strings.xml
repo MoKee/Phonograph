@@ -182,10 +182,7 @@
     <string name="permissions_denied">Permissões negadas.</string>
     <string name="permission_external_storage_denied">Permissão para aceder a armazenamento externo negada.</string>
     <string name="support_development">Apoiar o desenvolvimento</string>
-    <string name="buy_pro">Comprar Phonograph Pro</string>
-    <string name="thank_you">Obrigado!</string>
     <string name="version">Versão</string>
-    <string name="author">Autor</string>
     <string name="write_an_email">Escreva um e-mail</string>
     <string name="follow_on_twitter">Seguir no Twitter</string>
     <string name="visit_website">Visitar sítio na Internet</string>
@@ -202,11 +199,9 @@
     <string name="maarten_corpel_summary">Por fazer a ilustração na Play Store e pela capa de álbum vazia.</string>
     <string name="aleksandar_tesic_summary">Por me ajudar com o design.</string>
     <string name="website">Sítio da Internet</string>
-    <string name="loading_products">Carregando produtos...</string>
     <string name="up_next">A seguir</string>
     <string name="pref_title_now_playing_screen_appearance">Aparência</string>
     <string name="intro_label">Introdução</string>
-    <string name="welcome_to_phonograph">"Bem vindo ao Phonograph, um belo e leve leitor de música para Android. "</string>
     <string name="open_playing_queue_instruction">Deslize o cartão no ecrã de \"a reproduzir\" para cima para mostrar a fila de reprodução completa.</string>
     <string name="rearrange_playing_queue_instruction">Reorganizar a fila de reprodução arrastando a música desde o seu número</string>
     <string name="library">Biblioteca</string>
@@ -245,10 +240,6 @@
     <string name="app_shortcut_last_added_short">Últimas adições</string>
     <string name="playlist_is_empty">A lista de reprodução está vazia</string>
     <string name="playing_notification_name">Notificação de reprodução</string>
-    <string name="restoring_purchase">A restaurar a compra…</string>
-    <string name="purchase">Compra</string>
-    <string name="restore">Restaurar</string>
-    <string name="no_purchase_found">Nenhuma compra encontrada.</string>
     <string name="add_action">Adicionar</string>
     <string name="blacklist">Lista negra</string>
     <string name="remove_from_blacklist">Remover da lista negra</string>

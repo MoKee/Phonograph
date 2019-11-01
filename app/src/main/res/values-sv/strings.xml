@@ -133,8 +133,6 @@
     <string name="username">Användarnamn</string>
     <string name="password">Lösenord</string>
     <string name="playlist_is_empty">Spellistan är tom</string>
-    <string name="purchase">Köp</string>
-    <string name="restore">Återställ</string>
     <string name="add_action">Lägg till</string>
     <string name="sort_order_a_z">Stigande</string>
     <string name="sort_order_z_a">Fallande</string>

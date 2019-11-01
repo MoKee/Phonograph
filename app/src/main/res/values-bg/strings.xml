@@ -174,9 +174,7 @@
     <string name="permissions_denied">Достъпът е отказан.</string>
     <string name="permission_external_storage_denied">Достъпът до външното място за съхранение е отказан.</string>
     <string name="support_development">Подкрепете развитието</string>
-    <string name="thank_you">Благодаря Ви!</string>
     <string name="version">Версия</string>
-    <string name="author">Автор</string>
     <string name="follow_on_twitter">Последвай в Twitter</string>
     <string name="visit_website">Посети уебсайт</string>
     <string name="report_bugs">Съобщи за бъгове</string>
@@ -192,11 +190,9 @@
     <string name="maarten_corpel_summary">За направата на Play Store илюстрацията и обложката по подразбиране.</string>
     <string name="aleksandar_tesic_summary">За помощта относно дизайн</string>
     <string name="website">Уебсайт</string>
-    <string name="loading_products">Зареждане...</string>
     <string name="up_next">Следващи песни</string>
     <string name="pref_title_now_playing_screen_appearance">Изглед</string>
     <string name="intro_label">Въеведение</string>
-    <string name="welcome_to_phonograph">"Добре дошли във Phonograph, красив и лек музикален плеър за Андроид. "</string>
     <string name="open_playing_queue_instruction">Плъзнете картата в екранът на текущо възпроизвеждащата се песен, за видите списъкът с песни.</string>
     <string name="rearrange_playing_queue_instruction">Разместете списъкът с текущо възпроизвеждащи се песни, като хванете тракът за неговият номер.</string>
     <string name="library">Библиотека</string>
@@ -239,7 +235,6 @@
     <string name="app_shortcut_top_tracks_short">Най - често слушани</string>
     <string name="app_shortcut_last_added_short">Последно_добавени</string>
     <string name="playlist_is_empty">Плейлистът е празен</string>
-    <string name="restore">Възстанови</string>
     <string name="add_action">Добавяне</string>
     <string name="sort_order_artist">Изпълнител</string>
     <string name="sort_order_album">Албум</string>

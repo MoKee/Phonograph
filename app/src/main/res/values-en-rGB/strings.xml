@@ -32,8 +32,5 @@
     <string name="colored_footers">Coloured footers</string>
     <string name="changelog">Changelog</string>
     <string name="donate">Donate</string>
-    <string name="welcome_to_phonograph">"Welcome to Phonograph, a beautiful and lightweight music player for Android."</string>
     <string name="report_an_issue">Phonograph - Card</string>
-    <string name="only_the_first_5_colors_available">Only the first 5 colours are available in the free version.</string>
-    <string name="restore">Restore</string>
 </resources>
