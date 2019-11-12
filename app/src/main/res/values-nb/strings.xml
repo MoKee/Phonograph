@@ -3,6 +3,9 @@
 <resources>
     <string name="action_share">Del</string>
     <string name="action_settings">"Innstillinger"</string>
+    <string name="action_about">Om</string>
+    <string name="action_add_to_favorites">Legg til i favorittene</string>
+    <string name="action_remove_from_favorites">Fjern fra favorittene</string>
     <string name="action_search">Søk</string>
     <string name="action_play">Spill av</string>
     <string name="action_previous">Forrige</string>
@@ -15,18 +18,27 @@
     <string name="label_file_size">Størrelse</string>
     <string name="select_all_title">Velg alle</string>
     <string name="dark_theme_name">Mørkt</string>
+    <string name="always">Alltid</string>
     <string name="never">Aldri</string>
+    <string name="today">I dag</string>
     <string name="pref_header_colors">Farger</string>
+    <string name="pref_header_library">Bibliotek</string>
+    <string name="pref_header_images">Bilder</string>
     <string name="delete_action">Slett</string>
     <string name="clear_action">Fjern</string>
     <string name="remove_action">Fjern</string>
     <string name="rename_action">Gi nytt navn</string>
     <string name="reset_action">Tilbakestill</string>
+    <string name="primary_color">Primærfarge</string>
+    <string name="favorites">Favoritter</string>
     <string name="changelog">Endringslogg</string>
     <string name="version">Versjon</string>
     <string name="donate">Donere</string>
+    <string name="library">Bibliotek</string>
     <string name="title">Tittel</string>
     <string name="description">Beskrivelse</string>
     <string name="password">Passord</string>
     <string name="add_action">Legg til</string>
+    <string name="sort_order_a_z">Stigende</string>
+    <string name="sort_order_z_a">Fallende</string>
 </resources>

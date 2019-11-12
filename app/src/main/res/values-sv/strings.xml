@@ -59,9 +59,9 @@
     <string name="updating">Uppdaterar ...</string>
     <string name="added_title_to_playing_queue">"Lagt till 1 titel till spellistan."</string>
     <string name="created_playlist_x">Spellista %1$s skapad</string>
-    <string name="delete_playlist_x">Vill du radera spellistan &amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;?</string>
-    <string name="delete_song_x">Vill du radera låten &amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;?</string>
-    <string name="delete_x_songs">Vill du radera &amp;lt;b&amp;gt;%1$d&amp;lt;/b&amp;gt; låtar?</string>
+    <string name="delete_playlist_x">Vill du radera spellistan &amp;amp;lt;b&amp;amp;gt;%1$s&amp;amp;lt;/b&amp;amp;gt;?</string>
+    <string name="delete_song_x">Vill du radera låten &amp;amp;lt;b&amp;amp;gt;%1$s&amp;amp;lt;/b&amp;amp;gt;?</string>
+    <string name="delete_x_songs">Vill du radera &amp;amp;lt;b&amp;amp;gt;%1$d&amp;amp;lt;/b&amp;amp;gt; låtar?</string>
     <string name="delete_song_title">Radera låt</string>
     <string name="delete_songs_title">Radera låtar</string>
     <string name="rename_playlist_title">Döp om spellista</string>

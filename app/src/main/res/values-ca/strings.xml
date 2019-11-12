@@ -4,6 +4,8 @@
     <string name="action_share">Comparteix</string>
     <string name="action_settings">"Configuració"</string>
     <string name="action_about">Quant a</string>
+    <string name="action_add_to_favorites">Afegeix als preferits</string>
+    <string name="action_remove_from_favorites">Elimina dels preferits</string>
     <string name="action_search">Cerca</string>
     <string name="action_play">Reprodueix</string>
     <string name="action_previous">Anterior</string>
@@ -12,20 +14,26 @@
     <string name="action_rename">Reanomena</string>
     <string name="action_delete">Suprimeix</string>
     <string name="albums">Àlbums</string>
+    <string name="album">Àlbum</string>
+    <string name="artist">Artista</string>
     <string name="label_details">Detalls</string>
     <string name="label_file_size">Mida</string>
     <string name="select_all_title">Selecciona-ho tot</string>
     <string name="light_theme_name">Clar</string>
     <string name="dark_theme_name">Fosca</string>
+    <string name="always">Sempre</string>
     <string name="never">Mai</string>
     <string name="today">Avui</string>
     <string name="equalizer">Equalitzador</string>
+    <string name="pref_header_images">Imatges</string>
     <string name="pref_header_notification">Notificació</string>
     <string name="delete_action">Suprimeix</string>
     <string name="clear_action">Esborra</string>
     <string name="remove_action">Eliminar</string>
     <string name="rename_action">Reanomena</string>
     <string name="reset_action">Restableix</string>
+    <string name="primary_color">Color principal</string>
+    <string name="favorites">Preferits</string>
     <string name="changelog">Registre de canvis</string>
     <string name="version">Versió</string>
     <string name="donate">Dóna</string>
@@ -33,4 +41,8 @@
     <string name="description">Descripció</string>
     <string name="password">Contrasenya</string>
     <string name="add_action">Afegeix</string>
+    <string name="sort_order_a_z">Ascendent</string>
+    <string name="sort_order_z_a">Descendent</string>
+    <string name="sort_order_artist">Artista</string>
+    <string name="sort_order_album">Àlbum</string>
 </resources>
