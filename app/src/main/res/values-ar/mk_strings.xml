@@ -18,4 +18,6 @@
 -->
 <resources>
     <string name="original_author">المؤلف الأصلي</string>
+    <string name="app_name">Phonograph</string>
+    <string name="welcome_to_phonograph_mk">"مرحباً في Phonograph، مشغل موسيقى خفيف وأنيق على منصة أندرويد."</string>
 </resources>

@@ -229,6 +229,7 @@
     <string name="failed_to_save_playlist">Impossible de sauvegarder la liste de lecture (%s).</string>
     <string name="saved_x_playlists_to_x">Playlists sauvé %1$d à %2$s.</string>
     <string name="saved_x_playlists_to_x_failed_to_save_x">Sauvegarde playlists %1$d à %2$s, erreur de sauvegarde %3$d.</string>
+    <string name="not_listed_in_media_store">&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt; n'est pas dans le catalogue de médias.</string>
     <string name="some_files_are_not_listed_in_the_media_store">Des fichiers ne sont pas listés dans les documents.</string>
     <string name="nothing_to_scan">Rien à analyser.</string>
     <string name="scanned_files">%1$d fichiers scannés sur %2$d.</string>
