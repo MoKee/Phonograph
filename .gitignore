@@ -74,5 +74,3 @@ fastlane/metadata/
 
 Gemfile.lock
 
-keystore.jks
-keystore.properties
