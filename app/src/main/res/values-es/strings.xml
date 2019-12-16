@@ -106,6 +106,7 @@
     <string name="pref_header_lockscreen">Pantalla de bloqueo</string>
     <string name="pref_header_playlists">Listas de Reproducción</string>
     <string name="pref_header_notification">Notificaciones</string>
+    <string name="pref_title_album_art_on_lockscreen">Mostrar portada de álbum</string>
     <string name="pref_title_auto_download_metadata">Autodescargar metadatos</string>
     <string name="delete_action">Borrar</string>
     <string name="clear_action">Borrar</string>
@@ -134,6 +135,8 @@
     <string name="cancel_current_timer">Cancelar temporizador actual</string>
     <string name="action_new_playlist">Nueva lista de reproducción…</string>
     <string name="new_playlist_title">Nueva lista de Reproducción</string>
+    <string name="grid_size_1">1</string>
+    <string name="grid_size_2">2</string>
     <string name="grid_size_3">3</string>
     <string name="grid_size_4">4</string>
     <string name="grid_size_5">5</string>
@@ -157,7 +160,11 @@
     <string name="rate_on_google_play">Puntuar</string>
     <string name="donate">Dona</string>
     <string name="website">Sitio Web</string>
+    <string name="pref_title_now_playing_screen_appearance">Aspecto</string>
+    <string name="intro_label">Introducción</string>
     <string name="library">Biblioteca</string>
+    <string name="folders">Carpetas</string>
+    <string name="nothing_to_scan">Nada que escanear.</string>
     <string name="title">Título</string>
     <string name="description">Descripción</string>
     <string name="username">Nombre de usuario</string>
