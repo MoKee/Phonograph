@@ -106,6 +106,7 @@
     <string name="pref_header_lockscreen">Pantalla de bloqueo</string>
     <string name="pref_header_playlists">Listas de Reproducción</string>
     <string name="pref_header_notification">Notificaciones</string>
+    <string name="pref_title_album_art_on_lockscreen">Mostrar portada de álbum</string>
     <string name="pref_title_auto_download_metadata">Autodescargar metadatos</string>
     <string name="delete_action">Borrar</string>
     <string name="clear_action">Limpiar</string>
@@ -157,7 +158,11 @@
     <string name="rate_on_google_play">Puntuar</string>
     <string name="donate">Donar</string>
     <string name="website">Sitio Web</string>
+    <string name="pref_title_now_playing_screen_appearance">Aspecto</string>
+    <string name="intro_label">Introducción</string>
     <string name="library">Biblioteca</string>
+    <string name="folders">Carpetas</string>
+    <string name="nothing_to_scan">Nada que escanear.</string>
     <string name="title">Título</string>
     <string name="description">Descripción</string>
     <string name="username">Nombre de usuario</string>
