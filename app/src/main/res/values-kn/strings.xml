@@ -72,7 +72,7 @@
     <string name="deleted_x_songs">%1$d ಗೀತೆಗಳನ್ನು ಅಳಿಸಲಾಗಿದೆ.</string>
     <string name="playlist_exists">ಚಲಿಸುವ ಪಟ್ಟಿ %1$s ಈಗಾಗಲೇ ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ.</string>
     <string name="could_not_create_playlist">ಚಲಿಸುವ ಪಟ್ಟಿ\u2019 ಅನ್ನು ರಚಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.</string>
-    <string name="delete_playlist_x">&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt; ಚಲಿಸುವ ಪಟ್ಟಿ ಅಳಿಸಬೇಕೇ?</string>
+    <string name="delete_playlist_x">&amp;amp;lt;b&amp;amp;gt;%1$s&amp;amp;lt;/b&amp;amp;gt; ಚಲಿಸುವ ಪಟ್ಟಿ ಅಳಿಸಬೇಕೇ?</string>
     <string name="delete_song_title">ಗೀತೆ ಅಳಿಸಿ</string>
     <string name="delete_songs_title">ಗೀತೆಗಳನ್ನು ಅಳಿಸಿ</string>
     <string name="remove_song_from_playlist_title">ಚಲಿಸುವ ಪಟ್ಟಿಯಿಂದ ಗೀತೆ ತೆಗೆಯಿರಿ</string>
