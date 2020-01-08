@@ -174,6 +174,7 @@
     <string name="search_hint">Durchsuche deine Mediathek</string>
     <string name="favorites">Favoriten</string>
     <string name="last_added">Zuletzt hinzugefügt</string>
+    <string name="history">Kürzlich gespielt</string>
     <string name="my_top_tracks">Meine Lieblingstitel</string>
     <string name="remove_cover">Cover entfernen</string>
     <string name="download_from_last_fm">Von Last.fm herunterladen</string>
@@ -294,4 +295,5 @@
     <string name="sort_order_year">Jahr</string>
     <string name="finish_current_music_sleep_timer">Letztes Lied beenden</string>
     <string name="dialog_ringtone_title">Klingelton wählen</string>
+    <string name="dialog_ringtone_message">Phonopraph erlauben Toneinstellungen ändern zu dürfen</string>
 </resources>
