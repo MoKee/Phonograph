@@ -23,7 +23,7 @@
     <string name="changelog">تغییرات ایجاد شده</string>
     <string name="version">نسخه</string>
     <string name="title">عنوان</string>
-    <string name="description">توصیف</string>
+    <string name="description">توضیح</string>
     <string name="password">گذرواژه</string>
     <string name="add_action">اضافه کردن</string>
 </resources>

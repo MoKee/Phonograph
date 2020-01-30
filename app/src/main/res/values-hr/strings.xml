@@ -9,22 +9,22 @@
     <string name="action_share">Podijeli</string>
     <string name="action_settings">"Postavke"</string>
     <string name="action_grant">Dopusti</string>
-    <string name="action_about">O Phonographu</string>
+    <string name="action_about">O nama</string>
     <string name="action_clear_playlist">Očisti popis naslova</string>
     <string name="action_add_to_favorites">Dodaj u favorite</string>
     <string name="action_remove_from_favorites">Ukloni iz favorita</string>
-    <string name="action_search">Traži</string>
+    <string name="action_search">Pretraži</string>
     <string name="action_play_next">Reproduciraj sljedeće</string>
     <string name="action_play">Reproduciraj</string>
     <string name="action_play_pause">Reprodukcija/Pauza</string>
     <string name="action_previous">Prethodno</string>
-    <string name="action_next">Sljedeće</string>
+    <string name="action_next">Dalje</string>
     <string name="action_add_to_playing_queue">Dodaj u red čekanja</string>
     <string name="action_remove_from_playing_queue">Ukloni iz reda čekanja</string>
     <string name="action_add_to_playlist">Dodaj na popis naslova...</string>
     <string name="action_tag_editor">Uređivač oznaka</string>
     <string name="action_delete_from_device">Izbriši s uređaja</string>
-    <string name="action_details">Detalji</string>
+    <string name="action_details">Pojedinosti</string>
     <string name="action_rename">Preimenuj</string>
     <string name="action_delete">Izbriši</string>
     <string name="action_scan">Skeniraj</string>
@@ -39,7 +39,7 @@
     <string name="wiki_unavailable">Nije mogu\u0107e prona\u0107i wiki unos za ovaj album.</string>
     <string name="biography">Biografija</string>
     <string name="audio_focus_denied">Zvučni fokus je odbijen.</string>
-    <string name="artist">Izvođač</string>
+    <string name="artist">Umjetnik</string>
     <string name="genre">Žanr</string>
     <string name="album_artist">Izvođač albuma</string>
     <string name="year">Godina</string>
@@ -47,7 +47,7 @@
     <string name="lyrics">Stihovi</string>
     <string name="album_or_artist_empty">Polje za naziv ili izvođača je prazno.</string>
     <string name="saving_changes">Spremanje promjena</string>
-    <string name="label_details">Detalji</string>
+    <string name="label_details">Pojedinosti</string>
     <string name="label_file_name">Naziv datoteke</string>
     <string name="label_file_path">Odredište datoteke</string>
     <string name="label_file_size">Veličina</string>
@@ -95,8 +95,7 @@
     <string name="action_save_playing_queue">Spremi red čekanja</string>
     <string name="action_go_to_start_directory">Idi na početni direktorij</string>
     <string name="action_show_lyrics">Prikaži stihove</string>
-    <string name="light_theme_name">Svijetla</string>
-    <string name="dark_theme_name">Tamna</string>
+    <string name="dark_theme_name">Tamno</string>
     <string name="black_theme_name">Crna (AMOLED)</string>
     <string name="always">Uvijek</string>
     <string name="only_on_wifi">Samo na Wifi-ju</string>
@@ -111,7 +110,7 @@
     <string name="pref_header_now_playing_screen">Trenutna reprodukcija</string>
     <string name="pref_title_general_theme">Općenita tema</string>
     <string name="pref_header_audio">Zvuk</string>
-    <string name="pref_header_library">Biblioteka</string>
+    <string name="pref_header_library">Knjižnica</string>
     <string name="pref_header_images">Slike</string>
     <string name="pref_header_lockscreen">Zaključani zaslon</string>
     <string name="pref_header_playlists">Popisi naslova</string>
@@ -139,7 +138,6 @@
     <string name="reset_action">Poništi</string>
     <string name="x_selected">%1$d odabrano</string>
     <string name="primary_color">Primarna boja</string>
-    <string name="accent_color">Naglašena boja</string>
     <string name="primary_color_desc">Primarna boja teme, zadana je indigo plava.</string>
     <string name="accent_color_desc">Naglašena boja teme, zadana je roza.</string>
     <string name="update_image">Ažuriraj sliku</string>
@@ -197,7 +195,7 @@
     <string name="translate_summary">Pomozite prevesti Phonograph na svoj jezik.</string>
     <string name="rate_on_google_play">Ocijeni</string>
     <string name="rate_on_google_play_summary">Ostavite pozitivnu ocjenu na Google Playu ako vam se sviđa Phonograph.</string>
-    <string name="donate">Doniraj</string>
+    <string name="donate">Donirajte</string>
     <string name="donate_summary">Ako mislite da sam zaslužio biti plaćen za svoj rad, ostavite mi par dolara ovdje.</string>
     <string name="aidan_follestad_summary">Za pokretač teme i ostale super stvari.</string>
     <string name="michael_cook_summary">Za prekrasnu materijalnu ikonu.</string>
@@ -209,7 +207,7 @@
     <string name="intro_label">Uvod</string>
     <string name="open_playing_queue_instruction">Povucite karticu na zaslonu za reprodukciju kako bi otvorili cijeli red čekanja.</string>
     <string name="rearrange_playing_queue_instruction">Preuredite red čekanja povlačenjem pjesme za njen broj.</string>
-    <string name="library">Biblioteka</string>
+    <string name="library">Knjižnica</string>
     <string name="folders">Mape</string>
     <string name="saved_playlist_to">Popis naslova spremljen u %s.</string>
     <string name="failed_to_save_playlist">Popis naslova nije spremljen (%s).</string>
@@ -272,6 +270,6 @@
     <string name="action_sort_order">Način sortiranja</string>
     <string name="sort_order_a_z">Uzlazno</string>
     <string name="sort_order_z_a">Silazno</string>
-    <string name="sort_order_artist">Izvođač</string>
+    <string name="sort_order_artist">Umjetnik</string>
     <string name="sort_order_year">Godina</string>
 </resources>

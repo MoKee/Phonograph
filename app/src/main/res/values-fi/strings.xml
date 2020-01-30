@@ -9,7 +9,7 @@
     <string name="action_share">Jaa</string>
     <string name="action_settings">"Asetukset"</string>
     <string name="action_grant">Myönnä</string>
-    <string name="action_about">Tietoja</string>
+    <string name="action_about">Tietoa</string>
     <string name="action_clear_playlist">Tyhjennä soittolista</string>
     <string name="action_add_to_favorites">Lisää suosikkeihin</string>
     <string name="action_remove_from_favorites">Poista suosikeista</string>
@@ -24,7 +24,7 @@
     <string name="action_add_to_playlist">Lisää soittolistaan...</string>
     <string name="action_tag_editor">Tagieditori</string>
     <string name="action_delete_from_device">Poista laitteesta</string>
-    <string name="action_details">Yksityiskohdat</string>
+    <string name="action_details">Tiedot</string>
     <string name="action_rename">Nimeä uudelleen</string>
     <string name="action_delete">Poista</string>
     <string name="action_scan">Skannaa</string>
@@ -39,7 +39,7 @@
     <string name="biography">Elämänkerta</string>
     <string name="audio_focus_denied">Ääntä ei voitu toistaa.</string>
     <string name="album">Albumi</string>
-    <string name="artist">Artisti</string>
+    <string name="artist">Esittäjä</string>
     <string name="genre">Tyylilaji</string>
     <string name="album_artist">Albumin artisti</string>
     <string name="year">Vuosi</string>
@@ -47,10 +47,10 @@
     <string name="lyrics">Sanoitukset</string>
     <string name="album_or_artist_empty">Nimi- tai artistikenttä on tyhjä.</string>
     <string name="saving_changes">Tallennetaan muutokset...</string>
-    <string name="label_details">Yksityiskohdat</string>
+    <string name="label_details">Tiedot</string>
     <string name="label_file_name">Tiedostonimi</string>
     <string name="label_file_path">Tiedostopolku</string>
-    <string name="label_file_size">Koko</string>
+    <string name="label_file_size">Koon perusteella</string>
     <string name="label_file_format">Tyyppi</string>
     <string name="label_track_length">Pituus</string>
     <string name="label_bit_rate">Bittinopeus</string>
@@ -84,7 +84,7 @@
     <string name="rename_playlist_title">Nimeä soittolista uudelleen</string>
     <string name="delete_playlist_title">Poista soittolista</string>
     <string name="delete_playlists_title">Poista soittolistat</string>
-    <string name="clear_playlist_title">Tyhjennä soittolistat</string>
+    <string name="clear_playlist_title">Tyhjennä soittolista</string>
     <string name="save_playlist_title">Tallenna tiedostona</string>
     <string name="add_playlist_title">"Lisää soittolistaan"</string>
     <string name="select_all_title">Valitse kaikki</string>
@@ -102,7 +102,7 @@
     <string name="always">Aina</string>
     <string name="only_on_wifi">Vain Wi-Fi-yhteydellä</string>
     <string name="never">Ei koskaan</string>
-    <string name="today">1 päivä</string>
+    <string name="today">Tänään</string>
     <string name="this_week">1 viikko</string>
     <string name="this_month">1 kuukausi</string>
     <string name="past_three_months">3 kuukautta</string>
@@ -116,7 +116,7 @@
     <string name="pref_header_images">Kuvat</string>
     <string name="pref_header_lockscreen">Lukitusnäyttö</string>
     <string name="pref_header_playlists">Soittolistat</string>
-    <string name="pref_header_notification">Ilmoitukset</string>
+    <string name="pref_header_notification">Ilmoitus</string>
     <string name="pref_title_navigation_bar">Värillinen navigointipalkki</string>
     <string name="pref_title_album_art_on_lockscreen">Näytä albumin kansi</string>
     <string name="pref_title_auto_download_metadata">Metatietojen automaattinen lataus</string>
@@ -135,7 +135,7 @@
     <string name="remove_action">Poista</string>
     <string name="rename_action">Nimeä uudelleen</string>
     <string name="create_action">Luo</string>
-    <string name="reset_action">Palauta</string>
+    <string name="reset_action">Palauta oletukset</string>
     <string name="x_selected">%1$d valittu</string>
     <string name="primary_color">Ensisijainen väri</string>
     <string name="accent_color">Aksenttiväri</string>
@@ -226,7 +226,7 @@
     <string name="report_an_issue">Raportoi ongelma</string>
     <string name="bug_report_issue">Ongelma</string>
     <string name="login">Kirjaudu sisään</string>
-    <string name="title">Otsikko</string>
+    <string name="title">Nimi</string>
     <string name="description">Kuvaus</string>
     <string name="device_info">Laitteen tiedot</string>
     <string name="bug_report_use_account">Lähetä käyttämällä GitHub-käyttäjää.</string>
@@ -261,7 +261,7 @@
     <string name="pref_summary_library_categories">Määrittele kirjaston välilehtien näkyvyyttä ja järjestystä.</string>
     <string name="sort_order_a_z">Nouseva</string>
     <string name="sort_order_z_a">Laskeva</string>
-    <string name="sort_order_artist">Artisti</string>
+    <string name="sort_order_artist">Esittäjä</string>
     <string name="sort_order_album">Albumi</string>
     <string name="sort_order_year">Vuosi</string>
 </resources>

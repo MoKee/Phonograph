@@ -15,7 +15,6 @@
     <string name="action_remove_from_favorites">ಮೆಚ್ಚಿನವುಗಳಿಂದ ತೆಗೆದುಹಾಕಿ</string>
     <string name="action_search">ಹುಡುಕಿ</string>
     <string name="action_play_next">ಮುಂದಿನದನ್ನು ಪ್ಲೇ ಮಾಡಿ</string>
-    <string name="action_play">ಚಲಾಯಿಸು</string>
     <string name="action_play_pause">ಪ್ಲೇ/ವಿರಾಮ</string>
     <string name="action_previous">ಹಿಂದಿನ</string>
     <string name="action_next">ಮುಂದಿನ</string>
@@ -40,7 +39,7 @@
     <string name="biography">ಆತ್ಮಕಥನ</string>
     <string name="wiki">ವಿಕಿ</string>
     <string name="audio_focus_denied">ಧ್ವನಿ ಫೋಕಸ್ ತಿರಸ್ಕೃತಗೊಂಡಿದೆ.</string>
-    <string name="album">ಆಲ್ಬಮ್</string>
+    <string name="album">ಆಲ್ಬಂ</string>
     <string name="artist">ಕಲಾವಿದ</string>
     <string name="genre">ಶೈಲಿ</string>
     <string name="album_artist">ಆಲ್ಬಮ್ ನ ಕಲಾವಿದ</string>

@@ -3,7 +3,7 @@
 <resources>
     <string name="action_share">Comparteix</string>
     <string name="action_settings">"Configuració"</string>
-    <string name="action_about">Quant a</string>
+    <string name="action_about">Sobre</string>
     <string name="action_add_to_favorites">Afegeix als preferits</string>
     <string name="action_remove_from_favorites">Elimina dels preferits</string>
     <string name="action_search">Cerca</string>
@@ -12,13 +12,13 @@
     <string name="action_next">Següent</string>
     <string name="action_details">Detalls</string>
     <string name="action_rename">Reanomena</string>
-    <string name="action_delete">Suprimeix</string>
+    <string name="action_delete">Esborra</string>
     <string name="albums">Àlbums</string>
     <string name="album">Àlbum</string>
     <string name="artist">Artista</string>
     <string name="label_details">Detalls</string>
     <string name="label_file_size">Mida</string>
-    <string name="select_all_title">Selecciona-ho tot</string>
+    <string name="select_all_title">Seleccionar tot</string>
     <string name="light_theme_name">Clar</string>
     <string name="dark_theme_name">Fosca</string>
     <string name="always">Sempre</string>
@@ -27,7 +27,7 @@
     <string name="equalizer">Equalitzador</string>
     <string name="pref_header_images">Imatges</string>
     <string name="pref_header_notification">Notificació</string>
-    <string name="delete_action">Suprimeix</string>
+    <string name="delete_action">Esborra</string>
     <string name="clear_action">Esborra</string>
     <string name="remove_action">Eliminar</string>
     <string name="rename_action">Reanomena</string>
@@ -36,7 +36,7 @@
     <string name="favorites">Preferits</string>
     <string name="changelog">Registre de canvis</string>
     <string name="version">Versió</string>
-    <string name="donate">Dóna</string>
+    <string name="donate">Donar</string>
     <string name="title">Títol</string>
     <string name="description">Descripció</string>
     <string name="password">Contrasenya</string>
