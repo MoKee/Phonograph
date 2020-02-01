@@ -11,8 +11,8 @@
     <string name="action_grant">Toestaan</string>
     <string name="action_about">Over</string>
     <string name="action_clear_playlist">Afspeellijst legen</string>
-    <string name="action_add_to_favorites">Aan favorieten toevoegen</string>
-    <string name="action_remove_from_favorites">Uit favorieten verwijderen</string>
+    <string name="action_add_to_favorites">Toevoegen aan favorieten</string>
+    <string name="action_remove_from_favorites">Verwijderen uit favorieten</string>
     <string name="action_search">Zoeken</string>
     <string name="action_play_next">Afspelen als volgende</string>
     <string name="action_play">Afspelen</string>
@@ -25,7 +25,7 @@
     <string name="action_tag_editor">Label bewerker</string>
     <string name="action_delete_from_device">Verwijderen van apparaat</string>
     <string name="action_details">Details</string>
-    <string name="action_rename">Naam wijzigen</string>
+    <string name="action_rename">Hernoemen</string>
     <string name="action_delete">Verwijderen</string>
     <string name="action_scan">Scannen</string>
     <string name="action_set_as_start_directory">Instellen als startmap</string>
@@ -106,9 +106,9 @@
     <string name="pref_header_now_playing_screen">Afspeelscherm</string>
     <string name="pref_title_general_theme">Algemeen thema</string>
     <string name="pref_header_library">Bibliotheek</string>
-    <string name="pref_header_images">Afbeeldingen</string>
+    <string name="pref_header_images">Illustraties</string>
     <string name="pref_header_lockscreen">Vergrendelscherm</string>
-    <string name="pref_header_playlists">Afspeellijsten</string>
+    <string name="pref_header_playlists">Afspeellijst</string>
     <string name="pref_header_notification">Melding</string>
     <string name="pref_title_navigation_bar">Gekleurde navigatiebalk</string>
     <string name="pref_title_app_shortcuts">Gekleurde app-snelkoppelingen</string>
@@ -127,13 +127,13 @@
     <string name="no_audio_ID">"Speel eerst iets af, probeer dan opnieuw."</string>
     <string name="delete_action">Verwijderen</string>
     <string name="clear_action">Legen</string>
-    <string name="remove_action">Weghalen</string>
-    <string name="rename_action">Naam wijzigen</string>
+    <string name="remove_action">Verwijderen</string>
+    <string name="rename_action">Hernoemen</string>
     <string name="create_action">Aanmaken</string>
-    <string name="reset_action">Opnieuw instellen</string>
+    <string name="reset_action">Resetten</string>
     <string name="x_selected">%1$d geselecteerd</string>
     <string name="primary_color">Primaire kleur</string>
-    <string name="accent_color">Accent kleur</string>
+    <string name="accent_color">Accentkleur</string>
     <string name="primary_color_desc">De primaire themakleur, standaard indigo.</string>
     <string name="accent_color_desc">De thema accentkleur, standaard roze.</string>
     <string name="update_image">Afbeelding bijwerken</string>
@@ -195,7 +195,7 @@
     <string name="translate_summary">Help Phonograph te vertalen naar jouw moedertaal.</string>
     <string name="rate_on_google_play">Beoordelen</string>
     <string name="rate_on_google_play_summary">Laat een positieve beoordeling achter op Google Play als je Phonograph leuk vindt.</string>
-    <string name="donate">Doneren</string>
+    <string name="donate">Doneer</string>
     <string name="donate_summary">Als je vindt dat ik het verdient heb, mag je mij hier een paar dollar achterlaten.</string>
     <string name="aidan_follestad_summary">Voor de themamogelijkheden en andere goede functies.</string>
     <string name="michael_cook_summary">Voor het mooie material app icoon.</string>
@@ -224,7 +224,7 @@
     <string name="report_an_issue">Rapporteer een probleem</string>
     <string name="bug_report_issue">Probleem</string>
     <string name="title">Titel</string>
-    <string name="description">Beschrijving</string>
+    <string name="description">Omschrijving</string>
     <string name="device_info">Apparaat info</string>
     <string name="bug_report_use_account">Versturen via GitHub account</string>
     <string name="bug_report_manual">Handmatig versturen</string>

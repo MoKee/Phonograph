@@ -38,7 +38,7 @@
     <string name="biography_unavailable">No se pudo encontrar una biografía para este artista.</string>
     <string name="biography">Biografía</string>
     <string name="wiki">Wiki</string>
-    <string name="album">Álbum</string>
+    <string name="album">Album</string>
     <string name="artist">Artista</string>
     <string name="genre">Género</string>
     <string name="album_artist">Álbum del artista</string>
@@ -172,6 +172,6 @@
     <string name="sort_order_a_z">Ascendente</string>
     <string name="sort_order_z_a">Descendente</string>
     <string name="sort_order_artist">Artista</string>
-    <string name="sort_order_album">Álbum</string>
+    <string name="sort_order_album">Album</string>
     <string name="sort_order_year">Año</string>
 </resources>

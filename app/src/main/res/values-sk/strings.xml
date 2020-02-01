@@ -9,11 +9,11 @@
     <string name="action_share">Zdieľať</string>
     <string name="action_settings">"Nastavenia"</string>
     <string name="action_grant">Povoliť</string>
-    <string name="action_about">O aplikácií</string>
+    <string name="action_about">O aplikaci</string>
     <string name="action_clear_playlist">Vymazať zoznam skladieb</string>
-    <string name="action_add_to_favorites">Pridať medzi obľúbené</string>
-    <string name="action_remove_from_favorites">Odstrániť spomedzi obľúbených</string>
-    <string name="action_search">Vyhľadať</string>
+    <string name="action_add_to_favorites">Pridať k obľúbeným</string>
+    <string name="action_remove_from_favorites">Odstrániť z obľúbených</string>
+    <string name="action_search">Hľadať</string>
     <string name="action_play_next">Prehrať ďalšiu</string>
     <string name="action_play">Prehrať</string>
     <string name="action_play_pause">Prehrať/Pozastaviť</string>
@@ -41,7 +41,7 @@
     <string name="wiki">Wiki</string>
     <string name="audio_focus_denied">Nebolo možné získať ohnisko zvuku.</string>
     <string name="album">Album</string>
-    <string name="artist">Skupina</string>
+    <string name="artist">Interpret</string>
     <string name="genre">Žáner</string>
     <string name="album_artist">Interpret albumu</string>
     <string name="year">Rok</string>
@@ -142,9 +142,9 @@
     <string name="remove_action">Odstrániť</string>
     <string name="rename_action">Premenovať</string>
     <string name="create_action">Vytvoriť</string>
-    <string name="reset_action">Reštartovať</string>
+    <string name="reset_action">Resetovať</string>
     <string name="x_selected">Vybraných: %1$d</string>
-    <string name="primary_color">Primárna farba</string>
+    <string name="primary_color">Hlavná farba</string>
     <string name="accent_color">Odtieň farby</string>
     <string name="primary_color_desc">Hlavná farba témy (predvolená: modrá).</string>
     <string name="accent_color_desc">Vedľajšia farba témy (predvolená: ružová).</string>
@@ -188,6 +188,7 @@
     <string name="action_new_playlist">Nový zoznam skladieb…</string>
     <string name="new_playlist_title">Nový zoznam skladieb</string>
     <string name="grid_size_1">1</string>
+    <string name="grid_size_2">2</string>
     <string name="grid_size_3">3</string>
     <string name="grid_size_4">4</string>
     <string name="grid_size_5">5</string>
@@ -212,7 +213,7 @@
     <string name="translate_summary">Pomôžte nám preložiť Phonograph do vášho materinského jazyka.</string>
     <string name="rate_on_google_play">Ohodnotiť</string>
     <string name="rate_on_google_play_summary">Ak máte Phonograph radi, zanechajte pozitívne hodnotenie na Google Play.</string>
-    <string name="donate">Podporiť</string>
+    <string name="donate">Podporte nás</string>
     <string name="donate_summary">Ak si myslíte, že si za svoju prácu zaslúžim dostať zaplatené, tu mi môžete nechať pár korún.</string>
     <string name="aidan_follestad_summary">Za témy a iné ďalšie super veci.</string>
     <string name="michael_cook_summary">Za peknú Material ikonu aplikácie.</string>
@@ -288,8 +289,8 @@
     <string name="scan_media">Skenovanie médií</string>
     <string name="action_sort_order">Zoradiť podľa</string>
     <string name="sort_order_a_z">Vzostupne</string>
-    <string name="sort_order_z_a">Klesajúco</string>
-    <string name="sort_order_artist">Skupina</string>
+    <string name="sort_order_z_a">Zostupne</string>
+    <string name="sort_order_artist">Interpret</string>
     <string name="sort_order_album">Album</string>
     <string name="sort_order_year">Rok</string>
     <string name="finish_current_music_sleep_timer">Ukončiť poslednú skladbu</string>

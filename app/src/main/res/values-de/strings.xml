@@ -12,13 +12,13 @@
     <string name="action_about">Über</string>
     <string name="action_clear_playlist">Wiedergabeliste leeren</string>
     <string name="action_add_to_favorites">Zu Favoriten hinzufügen</string>
-    <string name="action_remove_from_favorites">Aus Favoriten entfernen</string>
+    <string name="action_remove_from_favorites">Von Favoriten entfernen</string>
     <string name="action_search">Suche</string>
     <string name="action_play_next">Spiele als nächstes</string>
-    <string name="action_play">Wiedergabe</string>
+    <string name="action_play">Abspielen</string>
     <string name="action_play_pause">Wiedergabe/Pause</string>
-    <string name="action_previous">Zurück</string>
-    <string name="action_next">Weiter</string>
+    <string name="action_previous">Vorheriger</string>
+    <string name="action_next">Nächster</string>
     <string name="action_add_to_playing_queue">Zur Warteschlange hinzufügen</string>
     <string name="action_remove_from_playing_queue">Von Warteschlange entfernen</string>
     <string name="action_add_to_playlist">Zu Wiedergabeliste hinzufügen…</string>
@@ -41,7 +41,7 @@
     <string name="wiki">Wiki</string>
     <string name="audio_focus_denied">Kein Audiofokus.</string>
     <string name="album">Album</string>
-    <string name="artist">Künstler</string>
+    <string name="artist">Interpret</string>
     <string name="genre">Genre</string>
     <string name="album_artist">Album Interpret</string>
     <string name="year">Jahr</string>
@@ -104,7 +104,7 @@
     <string name="black_theme_name">Schwarz (AMOLED)</string>
     <string name="always">Immer</string>
     <string name="only_on_wifi">Nur über WLAN</string>
-    <string name="never">Nie</string>
+    <string name="never">Niemals</string>
     <string name="today">Heute</string>
     <string name="this_week">Diese Woche</string>
     <string name="past_seven_days">Letzte 7 Tage</string>
@@ -120,7 +120,7 @@
     <string name="pref_header_images">Bilder</string>
     <string name="pref_header_lockscreen">Sperrbildschirm</string>
     <string name="pref_header_playlists">Wiedergabelisten</string>
-    <string name="pref_header_notification">Schalter für Benachrichtigungen</string>
+    <string name="pref_header_notification">Benachrichtigung</string>
     <string name="pref_title_navigation_bar">Farbige Navigationsleiste</string>
     <string name="pref_title_app_shortcuts">Gefärbte App-Shortcuts</string>
     <string name="pref_title_album_art_on_lockscreen">Album Cover anzeigen</string>
@@ -144,7 +144,7 @@
     <string name="create_action">Erstellen</string>
     <string name="reset_action">Zurücksetzen</string>
     <string name="x_selected">%1$d ausgewählt</string>
-    <string name="primary_color">Primäre Farbe</string>
+    <string name="primary_color">Hauptfarbe</string>
     <string name="accent_color">Akzentfarbe</string>
     <string name="primary_color_desc">Die primäre Farbe, Standard ist indigo.</string>
     <string name="accent_color_desc">Die Akzentfarbe, Standard ist pink.</string>
@@ -187,6 +187,8 @@
     <string name="sleep_timer_set">Der Schlaf Timer geht ab jetzt %d Minuten lang.</string>
     <string name="action_new_playlist">Neue Wiedergabeliste…</string>
     <string name="new_playlist_title">Neue Wiedergabeliste</string>
+    <string name="grid_size_1">1</string>
+    <string name="grid_size_2">2</string>
     <string name="grid_size_3">3</string>
     <string name="grid_size_4">4</string>
     <string name="grid_size_5">5</string>
@@ -288,7 +290,7 @@
     <string name="action_sort_order">Sortierung</string>
     <string name="sort_order_a_z">Aufsteigend</string>
     <string name="sort_order_z_a">Absteigend</string>
-    <string name="sort_order_artist">Künstler</string>
+    <string name="sort_order_artist">Interpret</string>
     <string name="sort_order_album">Album</string>
     <string name="sort_order_year">Jahr</string>
     <string name="finish_current_music_sleep_timer">Letztes Lied beenden</string>

@@ -18,7 +18,7 @@
     <string name="action_play">開始</string>
     <string name="action_play_pause">播放/暫停</string>
     <string name="action_previous">上一首</string>
-    <string name="action_next">下一步</string>
+    <string name="action_next">下一首</string>
     <string name="action_add_to_playing_queue">加入播放佇列</string>
     <string name="action_remove_from_playing_queue">從播放佇列中移除</string>
     <string name="action_add_to_playlist">加入播放清單...</string>
@@ -104,7 +104,7 @@
     <string name="black_theme_name">純黑</string>
     <string name="always">永遠</string>
     <string name="only_on_wifi">只在有 Wi-Fi 連線時</string>
-    <string name="never">Noway</string>
+    <string name="never">永不</string>
     <string name="today">今天</string>
     <string name="this_week">本週</string>
     <string name="past_seven_days">過去 7 天</string>
@@ -244,7 +244,7 @@
     <string name="bug_report_issue">問題</string>
     <string name="login">登入</string>
     <string name="title">標題</string>
-    <string name="description">說明</string>
+    <string name="description">描述</string>
     <string name="device_info">裝置資訊</string>
     <string name="bug_report_use_account">透過 GitHub 帳戶傳送</string>
     <string name="bug_report_manual">手動傳送</string>

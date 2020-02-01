@@ -11,14 +11,14 @@
     <string name="action_grant">Permitir</string>
     <string name="action_about">Sobre</string>
     <string name="action_clear_playlist">Limpar lista de reprodução</string>
-    <string name="action_add_to_favorites">Adicionar aos marcadores</string>
+    <string name="action_add_to_favorites">Adicionar aos favoritos</string>
     <string name="action_remove_from_favorites">Remover dos favoritos</string>
     <string name="action_search">Pesquisar</string>
     <string name="action_play_next">Reproduzir a próxima</string>
     <string name="action_play">Reproduzir</string>
     <string name="action_play_pause">Reproduzir/Pausar</string>
     <string name="action_previous">Anterior</string>
-    <string name="action_next">Seguinte</string>
+    <string name="action_next">Próximo</string>
     <string name="action_add_to_playing_queue">Adicionar à fila de reprodução</string>
     <string name="action_remove_from_playing_queue">Remover da fila de reprodução</string>
     <string name="action_add_to_playlist">Adicionar à lista de reprodução...</string>
@@ -26,7 +26,7 @@
     <string name="action_delete_from_device">Eliminar do dispositivo</string>
     <string name="action_details">Detalhes</string>
     <string name="action_rename">Mudar nome</string>
-    <string name="action_delete">Eliminar</string>
+    <string name="action_delete">Apagar</string>
     <string name="action_scan">Verificar</string>
     <string name="action_set_as_start_directory">Definir como diretoria principal</string>
     <string name="albums">Álbuns</string>
@@ -158,7 +158,7 @@
     <string name="pref_summary_audio_ducking">Notificações, navegação etc.</string>
     <string name="could_not_download_album_cover">"N\u00e3o foi encontrada uma capa para este \u00e1lbum."</string>
     <string name="search_hint">Procurar na biblioteca...</string>
-    <string name="favorites">Marcadores</string>
+    <string name="favorites">Favoritos</string>
     <string name="last_added">Últimas adições</string>
     <string name="my_top_tracks">As minhas faixas favoritas</string>
     <string name="remove_cover">Remover capa</string>

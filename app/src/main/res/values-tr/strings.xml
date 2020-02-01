@@ -24,7 +24,7 @@
     <string name="action_add_to_playlist">Oynatma listesine ekleniyor…</string>
     <string name="action_tag_editor">Etiket düzenleyici</string>
     <string name="action_delete_from_device">Cihazdan sil</string>
-    <string name="action_details">Ayrıntılar</string>
+    <string name="action_details">Detaylar</string>
     <string name="action_rename">Yeniden adlandır</string>
     <string name="action_delete">Sil</string>
     <string name="action_scan">Tara</string>
@@ -99,8 +99,8 @@
     <string name="action_save_playing_queue">Oynatma sırasını kaydet</string>
     <string name="action_go_to_start_directory">Başlangıç dizinine git</string>
     <string name="action_show_lyrics">Şarkı sözlerini göster</string>
-    <string name="light_theme_name">Aydınlık</string>
-    <string name="dark_theme_name">Karanlık</string>
+    <string name="light_theme_name">Açık</string>
+    <string name="dark_theme_name">Koyu</string>
     <string name="black_theme_name">Siyah (AMOLED)</string>
     <string name="always">Her zaman</string>
     <string name="only_on_wifi">Yalnızca Kablosuz</string>
@@ -116,7 +116,7 @@
     <string name="pref_header_now_playing_screen">Şimdi oynatılıyor</string>
     <string name="pref_title_general_theme">Genel tema</string>
     <string name="pref_header_audio">Ses</string>
-    <string name="pref_header_library">Kütüphane</string>
+    <string name="pref_header_library">Kitaplık</string>
     <string name="pref_header_images">Görüntüler</string>
     <string name="pref_header_lockscreen">Kilit ekranı</string>
     <string name="pref_header_playlists">Oynatma listeleri</string>
@@ -188,6 +188,7 @@
     <string name="action_new_playlist">Yeni oynatma listesi…</string>
     <string name="new_playlist_title">Yeni oynatma listesi</string>
     <string name="grid_size_1">1</string>
+    <string name="grid_size_2">2</string>
     <string name="grid_size_3">3</string>
     <string name="grid_size_4">4</string>
     <string name="grid_size_5">5</string>
@@ -224,7 +225,7 @@
     <string name="intro_label">Tanıtım</string>
     <string name="open_playing_queue_instruction">Şuan çalınıyor ekranı kartını yukarı kaydırmak oynatma sırasının tamamını ortaya çıkarır.</string>
     <string name="rearrange_playing_queue_instruction">Oynatma sırasını yeniden düzenlemek için şarkının parça numarasını kaydırın.</string>
-    <string name="library">Kütüphane</string>
+    <string name="library">Kitaplık</string>
     <string name="folders">Klasörler</string>
     <string name="saved_playlist_to">Oynatma listesi %s kaydedildi.</string>
     <string name="failed_to_save_playlist">(%s) oynatma listesine kaydetme başarısız.</string>

@@ -5,10 +5,10 @@
     <string name="action_search">Meklēt</string>
     <string name="action_previous">Iepriekšējais</string>
     <string name="action_next">Nākamais</string>
-    <string name="action_details">Papildu informācija</string>
+    <string name="action_details">Detalizēta informācija</string>
     <string name="action_delete">Dzēst</string>
     <string name="albums">Albumi</string>
-    <string name="label_details">Papildu informācija</string>
+    <string name="label_details">Detalizēta informācija</string>
     <string name="label_file_size">Izmēri</string>
     <string name="select_all_title">Atlasīt visu</string>
     <string name="equalizer">Ekvalaizers</string>
@@ -18,7 +18,7 @@
     <string name="remove_action">Noņemt</string>
     <string name="reset_action">Atiestatīt</string>
     <string name="version">Versija</string>
-    <string name="title">Nosaukums</string>
+    <string name="title">Virsraksts</string>
     <string name="description">Apraksts</string>
     <string name="password">Parole</string>
 </resources>

@@ -3,10 +3,10 @@
 <resources>
     <string name="action_share">ចែក​រំលែក</string>
     <string name="action_search">ស្វែងរក</string>
-    <string name="action_details">ព័ត៌មាន​លម្អិត</string>
+    <string name="action_details">សេចក្ដី​លម្អិត</string>
     <string name="action_delete">លុប</string>
     <string name="albums">អាល់ប៊ុម</string>
-    <string name="label_details">ព័ត៌មាន​លម្អិត</string>
+    <string name="label_details">សេចក្ដី​លម្អិត</string>
     <string name="label_file_size">ទំហំ</string>
     <string name="select_all_title">ជ្រើស​ទាំងអស់</string>
     <string name="delete_action">លុប</string>
@@ -15,5 +15,5 @@
     <string name="reset_action">កំណត់​ឡើងវិញ</string>
     <string name="version">កំណែ</string>
     <string name="title">ចំណង​ជើង</string>
-    <string name="description">ពណ៌នា</string>
+    <string name="description">ការ​ពិពណ៌នា</string>
 </resources>

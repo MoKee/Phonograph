@@ -17,7 +17,7 @@
     <string name="remove_action">ඉවත් කරන්න</string>
     <string name="reset_action">යළි පිහිටුවන්න</string>
     <string name="version">අනුවාදය</string>
-    <string name="title">මාතෘකාව</string>
+    <string name="title">පටබැඳිනාමය</string>
     <string name="description">විස්තරය</string>
     <string name="password">මුරපදය</string>
 </resources>

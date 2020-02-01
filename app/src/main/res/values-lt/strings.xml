@@ -15,7 +15,7 @@
     <string name="album">Albumas</string>
     <string name="artist">Atlikėjas</string>
     <string name="label_details">Išsami informacija</string>
-    <string name="label_file_size">Dydį</string>
+    <string name="label_file_size">Dydis</string>
     <string name="select_all_title">Pasirinkti viską</string>
     <string name="always">Visada</string>
     <string name="never">Niekada</string>
@@ -24,7 +24,7 @@
     <string name="pref_header_images">Atvaizdai</string>
     <string name="delete_action">Ištrinti</string>
     <string name="clear_action">Išvalyti</string>
-    <string name="remove_action">Pašalinti</string>
+    <string name="remove_action">Ištrinti</string>
     <string name="rename_action">Pervardinti</string>
     <string name="reset_action">Nust. iš naujo</string>
     <string name="primary_color">Pirminė spalva</string>
@@ -34,7 +34,7 @@
     <string name="donate">Paaukoti</string>
     <string name="library">Bibliotekoje</string>
     <string name="title">Pavadinimas</string>
-    <string name="description">Aprašas</string>
+    <string name="description">Apibūdinimas</string>
     <string name="username">Vartotojo vardas</string>
     <string name="password">Slaptažodis</string>
     <string name="add_action">Pridėti</string>

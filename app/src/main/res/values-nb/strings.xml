@@ -28,12 +28,12 @@
     <string name="clear_action">Fjern</string>
     <string name="remove_action">Fjern</string>
     <string name="rename_action">Gi nytt navn</string>
-    <string name="reset_action">Nullstill</string>
+    <string name="reset_action">Tilbakestill</string>
     <string name="primary_color">Primærfarge</string>
     <string name="favorites">Favoritter</string>
     <string name="changelog">Endringslogg</string>
     <string name="version">Versjon</string>
-    <string name="donate">Gi et bidrag</string>
+    <string name="donate">Donere</string>
     <string name="library">Bibliotek</string>
     <string name="title">Tittel</string>
     <string name="description">Beskrivelse</string>

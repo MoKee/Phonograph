@@ -13,12 +13,12 @@
     <string name="action_clear_playlist">Limpar playlist</string>
     <string name="action_add_to_favorites">Adicionar aos favoritos</string>
     <string name="action_remove_from_favorites">Remover dos favoritos</string>
-    <string name="action_search">Procurar</string>
+    <string name="action_search">Pesquisar</string>
     <string name="action_play_next">Reproduzir à seguir</string>
     <string name="action_play">Reproduzir</string>
     <string name="action_play_pause">Reproduzir/Pausar</string>
     <string name="action_previous">Anterior</string>
-    <string name="action_next">Próximo</string>
+    <string name="action_next">Próxima</string>
     <string name="action_add_to_playing_queue">Adicionar à fila de reprodução</string>
     <string name="action_remove_from_playing_queue">Remover da fila de reprodução</string>
     <string name="action_add_to_playlist">Adicionar à lista de reprodução...</string>
@@ -116,7 +116,7 @@
     <string name="pref_header_now_playing_screen">Tocando agora</string>
     <string name="pref_title_general_theme">Tema geral</string>
     <string name="pref_header_audio">Áudio</string>
-    <string name="pref_header_library">Ir à biblioteca</string>
+    <string name="pref_header_library">Biblioteca</string>
     <string name="pref_header_images">Imagens</string>
     <string name="pref_header_lockscreen">Bloqueio de tela</string>
     <string name="pref_header_playlists">Listas de Reprodução</string>
@@ -213,7 +213,7 @@
     <string name="translate_summary">Ajude a traduzir o Phonograph para sua língua nativa.</string>
     <string name="rate_on_google_play">Nota</string>
     <string name="rate_on_google_play_summary">Dê uma nota positiva no Google Play se você gosta do Phonograph.</string>
-    <string name="donate">Doações</string>
+    <string name="donate">Doar</string>
     <string name="donate_summary">Se você acha que eu mereço ser pago pelo meu trabalho, pode me deixar algum dinheiro aqui.</string>
     <string name="aidan_follestad_summary">Pelo mecanismo de temas e algumas outras coisas ótimas.</string>
     <string name="michael_cook_summary">Pelo lindo ícone material-design do app.</string>
@@ -225,7 +225,7 @@
     <string name="intro_label">Introdução</string>
     <string name="open_playing_queue_instruction">Arraste para cima o card da tela de reprodução para mostrar a lista de reprodução completa.</string>
     <string name="rearrange_playing_queue_instruction">Mude as músicas de lugar na fila pressionando-as e arrastando-as de seu número de faixa.</string>
-    <string name="library">Ir à biblioteca</string>
+    <string name="library">Biblioteca</string>
     <string name="folders">Pastas</string>
     <string name="saved_playlist_to">Salvo à playlist %s.</string>
     <string name="failed_to_save_playlist">Erro ao salvar a playlist (%s).</string>
@@ -267,7 +267,7 @@
     <string name="you_will_be_forwarded_to_the_issue_tracker_website">Você será encaminhado ao nosso site de registro de erros.</string>
     <string name="app_shortcut_shuffle_all_short">Embaralhar</string>
     <string name="app_shortcut_top_tracks_short">Melhores faixas</string>
-    <string name="app_shortcut_last_added_short">Última Adição</string>
+    <string name="app_shortcut_last_added_short">Últimas adições</string>
     <string name="playlist_is_empty">A playlist está vazia</string>
     <string name="playing_notification_description">A notificação de reprodução fornece opções de pausar/continuar etc.</string>
     <string name="playing_notification_name">Notificação de reprodução</string>
@@ -288,8 +288,8 @@
     <string name="action_scan_directory">Escanear pasta</string>
     <string name="scan_media">Escanear mídia</string>
     <string name="action_sort_order">Embaralhar ordem</string>
-    <string name="sort_order_a_z">Crescente</string>
-    <string name="sort_order_z_a">Decrescente</string>
+    <string name="sort_order_a_z">Ascendente</string>
+    <string name="sort_order_z_a">Descendente</string>
     <string name="sort_order_artist">Artista</string>
     <string name="sort_order_album">Álbum</string>
     <string name="sort_order_year">Ano</string>

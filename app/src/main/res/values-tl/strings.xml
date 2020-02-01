@@ -9,11 +9,11 @@
     <string name="action_play">Gawin</string>
     <string name="action_previous">Nakaraan</string>
     <string name="action_next">Susunod</string>
-    <string name="action_details">Mga detalye</string>
+    <string name="action_details">Mga Detalye</string>
     <string name="action_rename">Palitan ang pangalan</string>
     <string name="action_delete">Tanggalin</string>
     <string name="albums">Mga Album</string>
-    <string name="label_details">Mga detalye</string>
+    <string name="label_details">Mga Detalye</string>
     <string name="label_file_size">Laki</string>
     <string name="select_all_title">Piliin lahat</string>
     <string name="light_theme_name">Liwanag</string>

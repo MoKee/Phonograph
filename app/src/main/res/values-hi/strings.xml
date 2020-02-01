@@ -17,14 +17,14 @@
     <string name="never">कभी नहीं</string>
     <string name="today">आज</string>
     <string name="equalizer">इक्वलाइज़र</string>
-    <string name="pref_header_notification">सूचनाएँ</string>
+    <string name="pref_header_notification">अधिसूचना</string>
     <string name="delete_action">हटाएं</string>
     <string name="clear_action">साफ़ करें</string>
     <string name="remove_action">हटाएं</string>
     <string name="reset_action">रीसेट करें</string>
     <string name="version">वर्शन</string>
     <string name="title">शीर्षक</string>
-    <string name="description">वर्णन</string>
+    <string name="description">विवरण</string>
     <string name="password">पासवर्ड</string>
     <string name="add_action">जोड़ें</string>
 </resources>
