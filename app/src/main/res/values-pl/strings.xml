@@ -293,4 +293,6 @@
     <string name="sort_order_album">Album</string>
     <string name="sort_order_year">Rok</string>
     <string name="finish_current_music_sleep_timer">Ukończ ostatnią piosenkę</string>
+    <string name="dialog_ringtone_title">Ustaw dzwonek</string>
+    <string name="dialog_ringtone_message">Zezwól phonograph na modyfikowanie ustawień dźwięku</string>
 </resources>
