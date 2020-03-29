@@ -85,7 +85,9 @@
     <string name="add_playlist_title">"ಚಲಿಸುವ ಪಟ್ಟಿಗೆ ಸೇರಿಸು"</string>
     <string name="select_all_title">ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆ ಮಾಡಿ</string>
     <string name="action_shuffle_all">ಎಲ್ಲ ತಿರುವು-ಮುರುವು ಮಾಡಿ</string>
+    <string name="light_theme_name">ಬೆಳಕು</string>
     <string name="dark_theme_name">ಗಾಢ ಹಿನ್ನೆಲೆ</string>
+    <string name="always">ಯಾವಾಗಲೂ</string>
     <string name="never">ಎಂದಿಗೂ</string>
     <string name="today">ಈ ದಿನ</string>
     <string name="equalizer">ಸರಿಸಮಾನಕ</string>
@@ -100,6 +102,7 @@
     <string name="create_action">ರಚಿಸಿ</string>
     <string name="reset_action">ಮರುಹೊಂದಿಸು</string>
     <string name="primary_color">ಪ್ರಾಥಮಿಕ ಬಣ್ಣ</string>
+    <string name="accent_color">ಪ್ರಾಧಾನ ಬಣ್ಣ</string>
     <string name="update_image">ಚಿತ್ರ ನವೀಕರಿಸು</string>
     <string name="playlist_empty_text">ಖಾಲಿ ಚಲಿಸುವಪಟ್ಟಿ</string>
     <string name="no_playlists">ಚಲಿಸುವಪಟ್ಟಿ ಇಲ್ಲ</string>

@@ -17,4 +17,6 @@
 -->
 <resources>
     <string name="original_author">ಮೂಲ ಬರಹಗಾರ</string>
+    <string name="app_name">ಫೋನೊಗ್ರಾಫ್</string>
+    <string name="welcome_to_phonograph_mk">"%s‌ ಒಂದು ಸುಂದರವಾದ ಮತ್ತು ಹಗುರವಾದ ಆಂಡ್ರಾಯ್ಡ್ ಸಂಗೀತ ಪ್ಲೇಯರ್ ಗೆ ಸ್ವಾಗತ."</string>
 </resources>
