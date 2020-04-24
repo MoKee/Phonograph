@@ -17,4 +17,6 @@
 -->
 <resources>
     <string name="original_author">Tác giả bản gốc</string>
+    <string name="app_name">Phonograph</string>
+    <string name="welcome_to_phonograph_mk">"Chào mừng bạn đến %s, một máy nghe nhạc đẹp và nhẹ cho Android."</string>
 </resources>

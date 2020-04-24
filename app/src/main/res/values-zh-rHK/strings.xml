@@ -186,6 +186,8 @@
     <string name="sleep_timer_set">%d分鐘後，音樂將會自動停止。</string>
     <string name="action_new_playlist">新增播放清單...</string>
     <string name="new_playlist_title">新增播放清單</string>
+    <string name="grid_size_1">1</string>
+    <string name="grid_size_2">2</string>
     <string name="grid_size_3">3</string>
     <string name="grid_size_4">4</string>
     <string name="grid_size_5">5</string>

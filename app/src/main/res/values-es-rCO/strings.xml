@@ -134,6 +134,8 @@
     <string name="cancel_current_timer">Cancelar temporizador actual</string>
     <string name="action_new_playlist">Nueva lista de reproducción…</string>
     <string name="new_playlist_title">Nueva lista de Reproducción</string>
+    <string name="grid_size_1">1</string>
+    <string name="grid_size_2">2</string>
     <string name="grid_size_3">3</string>
     <string name="grid_size_4">4</string>
     <string name="grid_size_5">5</string>

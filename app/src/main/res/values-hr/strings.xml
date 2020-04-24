@@ -38,6 +38,7 @@
     <string name="wiki_unavailable">Nije mogu\u0107e prona\u0107i wiki unos za ovaj album.</string>
     <string name="biography">Biografija</string>
     <string name="audio_focus_denied">Zvučni fokus je odbijen.</string>
+    <string name="album">Album</string>
     <string name="artist">Izvođač</string>
     <string name="genre">Žanr</string>
     <string name="album_artist">Izvođač albuma</string>
@@ -272,5 +273,6 @@
     <string name="sort_order_a_z">Uzlazno</string>
     <string name="sort_order_z_a">Silazno</string>
     <string name="sort_order_artist">Izvođač</string>
+    <string name="sort_order_album">Album</string>
     <string name="sort_order_year">Godina</string>
 </resources>

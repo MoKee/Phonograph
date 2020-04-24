@@ -173,6 +173,7 @@
     <string name="search_hint">Tìm kiếm thư viện của bạn...</string>
     <string name="favorites">Yêu thích</string>
     <string name="last_added">Được thêm sau cùng</string>
+    <string name="history">Phát gần đây</string>
     <string name="my_top_tracks">Bài hát hàng đầu</string>
     <string name="remove_cover">Di chuyển bìa</string>
     <string name="download_from_last_fm">Tải về từ Last.fm</string>
@@ -292,4 +293,6 @@
     <string name="sort_order_album">Album</string>
     <string name="sort_order_year">Năm</string>
     <string name="finish_current_music_sleep_timer">Bài hát cuối kết thúc</string>
+    <string name="dialog_ringtone_title">Đặt nhạc chuông</string>
+    <string name="dialog_ringtone_message">Cho phonograph sửa đổi cài đặt âm thanh</string>
 </resources>
