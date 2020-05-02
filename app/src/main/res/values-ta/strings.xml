@@ -16,6 +16,7 @@
     <string name="label_details">விவரங்கள்</string>
     <string name="label_file_size">அளவு</string>
     <string name="select_all_title">அனைத்தையும் தேர்ந்தெடு</string>
+    <string name="light_theme_name">வெளிச்சம்</string>
     <string name="dark_theme_name">அடர்</string>
     <string name="always">எப்பொழுதும்</string>
     <string name="never">ஒருபோதுமில்லை</string>
@@ -27,6 +28,7 @@
     <string name="rename_action">மறுபெயரிடு</string>
     <string name="reset_action">மீட்டமை</string>
     <string name="primary_color">முதன்மை நிறம்</string>
+    <string name="accent_color">அழுத்த வண்ணம்</string>
     <string name="favorites">பிடித்தவை</string>
     <string name="changelog">மாற்றம் பதிவு</string>
     <string name="version">பதிப்பு</string>
