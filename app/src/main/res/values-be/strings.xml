@@ -4,6 +4,7 @@
     <string name="action_settings">"Налады"</string>
     <string name="action_about">Аб праграме</string>
     <string name="action_add_to_favorites">Дадаць у абранае</string>
+    <string name="action_remove_from_favorites">Выдаліць чорных красунь</string>
     <string name="action_search">Пошук</string>
     <string name="action_play">Прайграць</string>
     <string name="action_previous">Папярэдні трэк</string>
@@ -17,6 +18,7 @@
     <string name="select_all_title">Выбраць усё</string>
     <string name="light_theme_name">Светлая</string>
     <string name="dark_theme_name">Цемра</string>
+    <string name="always">Пракладкі</string>
     <string name="never">Ніколі</string>
     <string name="today">Сёння</string>
     <string name="equalizer">Эквалайзер</string>
