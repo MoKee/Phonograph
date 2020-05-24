@@ -173,6 +173,7 @@
     <string name="search_hint">Buscar en la biblioteca...</string>
     <string name="favorites">Favoritos</string>
     <string name="last_added">Agregadas recientemente</string>
+    <string name="history">Reproducido recientemente</string>
     <string name="my_top_tracks">Más reproducidas</string>
     <string name="remove_cover">Eliminar carátula</string>
     <string name="download_from_last_fm">Descargar de Last.fm</string>
@@ -292,4 +293,6 @@
     <string name="sort_order_album">Álbum</string>
     <string name="sort_order_year">Año</string>
     <string name="finish_current_music_sleep_timer">Finalizar última canción</string>
+    <string name="dialog_ringtone_title">Establecer como tono de llamada</string>
+    <string name="dialog_ringtone_message">Permitir que phonograph modifique la configuración de audio</string>
 </resources>
