@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="what_do_you_want_to_share">Apa yang ingin Anda bagikan? </string>
-    <string name="currently_listening_to_x_by_x">%3$s</string>
-    <string name="the_audio_file">Voice</string>
+    <string name="currently_listening_to_x_by_x">Saat ini mendengarkan %1$s oleh %2$s.</string>
+    <string name="the_audio_file">File audio</string>
     <string name="x_has_been_set_as_ringtone">Jadikan %1$s sebagai nada dering anda.</string>
     <string name="action_set_as_ringtone">Setel sebagai nada dering</string>
     <string name="action_share">Bagikan</string>
     <string name="action_settings">"Pengaturan"</string>
     <string name="action_grant">Izinkan</string>
     <string name="action_about">Tentang</string>
-    <string name="action_clear_playlist">Yes</string>
+    <string name="action_clear_playlist">Hapus playlist</string>
     <string name="action_add_to_favorites">Tambahkan ke favorit</string>
     <string name="action_remove_from_favorites">Hapus dari favorit</string>
     <string name="action_search">Pencarian</string>
@@ -18,7 +18,7 @@
     <string name="action_play_pause">Putar/Jeda</string>
     <string name="action_previous">Sebelumnya</string>
     <string name="action_next">Selanjutnya</string>
-    <string name="action_add_to_playing_queue">Tambahkan ke antrean putar</string>
+    <string name="action_add_to_playing_queue">Tambahkan ke antrian</string>
     <string name="action_remove_from_playing_queue">Hapus dari antrian</string>
     <string name="action_add_to_playlist">Tambahkan ke daftar putar...</string>
     <string name="action_tag_editor">Ubah label</string>
@@ -28,10 +28,10 @@
     <string name="action_delete">Hapus</string>
     <string name="action_scan">Pindai</string>
     <string name="action_set_as_start_directory">Atur sebagai direktori awal</string>
-    <string name="albums">Album-album</string>
-    <string name="artists">Artis-artis</string>
-    <string name="genres">Aliran</string>
-    <string name="songs">Lagu-lagu</string>
+    <string name="albums">Album</string>
+    <string name="artists">Artis</string>
+    <string name="genres">Genre</string>
+    <string name="songs">Lagu</string>
     <string name="playlists">Daftar putar</string>
     <string name="unplayable_file">Tidak dapat memutar lagu ini.</string>
     <string name="biography_unavailable">Tidak dapat menemukan biografi artis ini.</string>
@@ -41,7 +41,7 @@
     <string name="audio_focus_denied">Fokus audio ditolak.</string>
     <string name="album">Album</string>
     <string name="artist">Artis</string>
-    <string name="genre">Aliran</string>
+    <string name="genre">Genre</string>
     <string name="album_artist">Artis album</string>
     <string name="year">Tahun</string>
     <string name="track_hint">"Trek (2 untuk trek ke-2 atau 3004 untuk CD3 trek ke-4)"</string>
@@ -173,6 +173,7 @@
     <string name="search_hint">Mencari pustaka Anda...</string>
     <string name="favorites">Favorit</string>
     <string name="last_added">Terakhir ditambahkan</string>
+    <string name="history">Terakhir diputar</string>
     <string name="my_top_tracks">Sering Diputar</string>
     <string name="remove_cover">Hapus sampul</string>
     <string name="download_from_last_fm">Unduh dari Last.fm</string>
@@ -292,4 +293,6 @@
     <string name="sort_order_album">Album</string>
     <string name="sort_order_year">Tahun</string>
     <string name="finish_current_music_sleep_timer">Menyelesaikan lagu terakhir</string>
+    <string name="dialog_ringtone_title">Atur nada dering</string>
+    <string name="dialog_ringtone_message">Izinkan Phonograph untuk memodifikasi pengaturan audio</string>
 </resources>

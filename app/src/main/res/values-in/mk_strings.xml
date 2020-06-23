@@ -18,5 +18,5 @@
 <resources>
     <string name="original_author">Penulis asli</string>
     <string name="app_name">Phonograph</string>
-    <string name="welcome_to_phonograph_mk">"Selamat datang di %s, pemutar musik yang Indah dan rigan untuk Android."</string>
+    <string name="welcome_to_phonograph_mk">"Selamat datang di %s, pemutar musik yang indah dan rigan untuk Android."</string>
 </resources>
