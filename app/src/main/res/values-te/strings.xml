@@ -7,7 +7,7 @@
     <string name="label_file_size">పరిమాణం</string>
     <string name="dark_theme_name">ముదురు రంగు</string>
     <string name="never">ఎప్పటికీ వద్దు</string>
-    <string name="pref_header_notification">ప్రకటనలు </string>
+    <string name="pref_header_notification">ప్రకటన</string>
     <string name="clear_action">క్లియర్ చేయి</string>
     <string name="remove_action">తీసివేయి</string>
     <string name="reset_action">రీసెట్ చేయి</string>
