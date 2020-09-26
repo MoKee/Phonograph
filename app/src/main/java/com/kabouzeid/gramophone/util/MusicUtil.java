@@ -10,7 +10,7 @@ import android.net.Uri;
 import android.os.Environment;
 import android.provider.BaseColumns;
 import android.provider.MediaStore;
-import android.provider.Settings;
+
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.core.content.FileProvider;
@@ -44,13 +44,13 @@ import java.util.regex.Pattern;
  */
 public class MusicUtil {
 
-    public static Uri getMediaStoreAlbumCoverUri(int albumId) {
+    public static Uri getMediaStoreAlbumCoverUri(long albumId) {
         final Uri sArtworkUri = Uri.parse("content://media/external/audio/albumart");
 
         return ContentUris.withAppendedId(sArtworkUri, albumId);
     }
 
-    public static Uri getSongFileUri(int songId) {
+    public static Uri getSongFileUri(long songId) {
         return ContentUris.withAppendedId(MediaStore.Audio.Media.EXTERNAL_CONTENT_URI, songId);
     }
 
@@ -182,7 +182,7 @@ public class MusicUtil {
         return trackNumberToFix % 1000;
     }
 
-    public static void insertAlbumArt(@NonNull Context context, int albumId, String path) {
+    public static void insertAlbumArt(@NonNull Context context, long albumId, String path) {
         ContentResolver contentResolver = context.getContentResolver();
 
         Uri artworkUri = Uri.parse("content://media/external/audio/albumart");
@@ -196,7 +196,7 @@ public class MusicUtil {
         contentResolver.notifyChange(artworkUri, null);
     }
 
-    public static void deleteAlbumArt(@NonNull Context context, int albumId) {
+    public static void deleteAlbumArt(@NonNull Context context, long albumId) {
         ContentResolver contentResolver = context.getContentResolver();
         Uri localUri = Uri.parse("content://media/external/audio/albumart");
         contentResolver.delete(ContentUris.withAppendedId(localUri, albumId), null, null);
@@ -248,7 +248,7 @@ public class MusicUtil {
                 // as from the album art cache
                 cursor.moveToFirst();
                 while (!cursor.isAfterLast()) {
-                    final int id = cursor.getInt(0);
+                    final long id = cursor.getLong(0);
                     final Song song = SongLoader.getSong(context, id);
                     MusicPlayerRemote.removeFromQueue(song);
                     cursor.moveToNext();
@@ -258,7 +258,7 @@ public class MusicUtil {
                 // Step 2: Remove files from card
                 cursor.moveToFirst();
                 while (!cursor.isAfterLast()) {
-                    final int id = cursor.getInt(0);
+                    final long id = cursor.getLong(0);
                     final String name = cursor.getString(1);
                     try { // File.delete can throw a security exception
                         final File f = new File(name);
@@ -299,7 +299,7 @@ public class MusicUtil {
     }
 
     public static boolean isFavorite(@NonNull final Context context, @NonNull final Song song) {
-        return PlaylistsUtil.doPlaylistContains(context, getFavoritesPlaylist(context).id, song.id);
+        return PlaylistsUtil.doesPlaylistContain(context, getFavoritesPlaylist(context).id, song.id);
     }
 
     public static void toggleFavorite(@NonNull final Context context, @NonNull final Song song) {
