@@ -10,13 +10,17 @@
     <string name="action_delete">Fshi</string>
     <string name="label_details">Detajet</string>
     <string name="label_file_size">Madhësia</string>
+    <string name="always">Gjithmonë</string>
     <string name="today">Sot</string>
+    <string name="equalizer">Barazues</string>
     <string name="pref_header_colors">Ngjyrat</string>
+    <string name="pref_header_notification">Njoftimet</string>
     <string name="delete_action">Fshi</string>
     <string name="clear_action">Pastro</string>
     <string name="remove_action">Hiqe</string>
     <string name="rename_action">Riemërto</string>
     <string name="reset_action">Rivendos</string>
+    <string name="favorites">Të preferuarat</string>
     <string name="version">Versioni</string>
     <string name="title">Titulli</string>
     <string name="description">Përshkrimi</string>
