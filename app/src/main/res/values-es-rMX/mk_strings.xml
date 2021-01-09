@@ -18,4 +18,5 @@
 <resources>
     <string name="original_author">Autor original</string>
     <string name="app_name">Fonógrafo</string>
+    <string name="welcome_to_phonograph_mk">"Bienvenido a %s, un hermoso y ligero reproductor de música para Android."</string>
 </resources>
