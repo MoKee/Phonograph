@@ -78,8 +78,11 @@
     <string name="accent_color">அழுத்த வண்ணம்</string>
     <string name="update_image">புகைப்படத்தைப் புதுப்பி</string>
     <string name="favorites">பிடித்தவை</string>
+    <string name="grid_size_4">4</string>
+    <string name="grid_size_5">5</string>
     <string name="grid_size_6">6</string>
     <string name="grid_size_7">7</string>
+    <string name="grid_size_8">8</string>
     <string name="changelog">மாற்றம் பதிவு</string>
     <string name="licenses">உரிமங்கள்</string>
     <string name="permissions_denied">அனுமதிகள் மறுக்கப்பட்டது.</string>

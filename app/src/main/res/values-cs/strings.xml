@@ -144,9 +144,9 @@
     <string name="reset_action">Resetovat</string>
     <string name="x_selected">Vybráno: %1$d</string>
     <string name="primary_color">Hlavní barva</string>
-    <string name="accent_color">Vedlejší barva</string>
+    <string name="accent_color">Barva zvýraznění</string>
     <string name="primary_color_desc">Hlavní barva motivu (výchozí: modrá).</string>
-    <string name="accent_color_desc">Vedlejší barva motivu (výchozí: růžová).</string>
+    <string name="accent_color_desc">Barva zvýraznění motivu (výchozí: růžová).</string>
     <string name="update_image">Aktualizovat obrázek</string>
     <string name="playlist_empty_text">Prázdný seznam skladeb</string>
     <string name="no_playlists">Žádné seznamy skladeb</string>

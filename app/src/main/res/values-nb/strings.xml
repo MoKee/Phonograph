@@ -20,9 +20,11 @@
     <string name="always">Alltid</string>
     <string name="never">Aldri</string>
     <string name="today">I dag</string>
+    <string name="equalizer">Equalizer</string>
     <string name="pref_header_colors">Farger</string>
     <string name="pref_header_library">Bibliotek</string>
     <string name="pref_header_images">Bilder</string>
+    <string name="pref_header_notification">Varsel</string>
     <string name="delete_action">Slett</string>
     <string name="clear_action">Fjern</string>
     <string name="remove_action">Fjern</string>

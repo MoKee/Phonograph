@@ -19,6 +19,7 @@
     <string name="dark_theme_name">Maitim</string>
     <string name="never">Hindi kailanman</string>
     <string name="today">Ngayon</string>
+    <string name="equalizer">Equalizer</string>
     <string name="pref_header_colors">Mga kulay</string>
     <string name="delete_action">Tanggalin</string>
     <string name="clear_action">I-clear</string>

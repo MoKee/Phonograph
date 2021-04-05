@@ -2,11 +2,14 @@
 <resources>
     <string name="action_settings">"Gosodiadau"</string>
     <string name="action_search">Chwilio</string>
+    <string name="action_previous">Blaenorol</string>
     <string name="action_next">Nesaf</string>
+    <string name="action_rename">Ailenwi</string>
     <string name="action_delete">Dileu</string>
     <string name="dark_theme_name">Tywyll</string>
     <string name="equalizer">Cydraddolydd</string>
     <string name="delete_action">Dileu</string>
+    <string name="rename_action">Ailenwi</string>
     <string name="reset_action">Ailosod</string>
     <string name="add_action">Ychwanegu</string>
 </resources>

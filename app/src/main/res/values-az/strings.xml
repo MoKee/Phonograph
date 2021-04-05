@@ -19,6 +19,7 @@
     <string name="never">Heç vaxt</string>
     <string name="today">Bu gün</string>
     <string name="pref_header_library">Kitabxana</string>
+    <string name="pref_header_notification">Bildiriş</string>
     <string name="delete_action">Silin</string>
     <string name="clear_action">Sil</string>
     <string name="remove_action">Silin</string>

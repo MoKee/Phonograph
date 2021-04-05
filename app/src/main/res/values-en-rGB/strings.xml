@@ -4,8 +4,10 @@
     <string name="action_about">About</string>
     <string name="action_add_to_favorites">Add to favourites</string>
     <string name="action_remove_from_favorites">Remove from favourites</string>
+    <string name="action_previous">Previous</string>
     <string name="action_next">Next</string>
     <string name="action_add_to_playlist">Add to playlist...</string>
+    <string name="action_rename">Rename</string>
     <string name="unplayable_file">Couldn\'t play this song.</string>
     <string name="biography_unavailable">Couldn\'t find a biography entry for this artist.</string>
     <string name="wiki_unavailable">Couldn\'t find a wiki entry for this album.</string>
@@ -19,6 +21,7 @@
     <string name="pref_title_colored_notification">Coloured notification</string>
     <string name="pref_title_synchronized_lyrics_show">Show synchronised lyrics</string>
     <string name="no_equalizer">No equaliser found.</string>
+    <string name="rename_action">Rename</string>
     <string name="primary_color">Primary colour</string>
     <string name="accent_color">Accent colour</string>
     <string name="primary_color_desc">The primary theme colour, defaults to indigo.</string>

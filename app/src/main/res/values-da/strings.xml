@@ -22,6 +22,7 @@
     <string name="always">Altid</string>
     <string name="never">Aldrig</string>
     <string name="today">I dag</string>
+    <string name="equalizer">Equalizer</string>
     <string name="pref_header_colors">Farver</string>
     <string name="pref_header_library">Biblioteket</string>
     <string name="pref_header_images">Billeder</string>

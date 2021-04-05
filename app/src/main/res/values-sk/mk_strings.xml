@@ -17,4 +17,6 @@
 -->
 <resources>
     <string name="original_author">Pôvodný autor</string>
+    <string name="app_name">Phonograph</string>
+    <string name="welcome_to_phonograph_mk">"Vitajte v aplikácii %s, krásnom a ľahkom prehrávači pre Android."</string>
 </resources>

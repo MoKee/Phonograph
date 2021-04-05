@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="action_previous">Air ais</string>
+    <string name="action_next">Air adhart</string>
     <string name="action_details">Mion-fhiosrachadh</string>
+    <string name="action_rename">Thoir ainm ùr air</string>
     <string name="label_details">Mion-fhiosrachadh</string>
+    <string name="rename_action">Thoir ainm ùr air</string>
 </resources>
